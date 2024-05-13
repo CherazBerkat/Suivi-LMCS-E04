@@ -1,0 +1,12 @@
+@keyframes custom-animation {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.custom-animation {
+  animation: custom-animation 20s 1ms infinite linear running;
+}

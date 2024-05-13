@@ -1,0 +1,14 @@
+.nava,
+.menuP {
+  @apply hover:text-hover_yellow hover:scale-105 hover:duration-300;
+}
+
+.clickable,
+.nava,
+.menuP {
+  @apply active:scale-95 active:duration-300;
+}
+
+.menuP {
+  @apply cursor-pointer py-1;
+}

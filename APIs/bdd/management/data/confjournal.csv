@@ -1,0 +1,318 @@
+ConfJournal_id,nom,chercheur_id,type,periodicite,lien
+iet-ipr,IET Image Process.,,Journal,,https://dblp.org/db/journals/iet-ipr/iet-ipr12.html#KermiAZ18
+miccai,BrainLes@MICCAI (2),,Conference,,https://dblp.org/db/conf/miccai/brainles2018-2.html#KermiMK18
+isspa,ISSPA,,Conference,,https://dblp.org/db/conf/isspa/isspa2012.html#KermiL12
+firai,Frontiers Robotics AI,,Journal,,https://dblp.org/db/journals/firai/firai9.html#KhenifarJOBK22
+ria,Rev. d'Intelligence Artif.,,Journal,,https://dblp.org/db/journals/ria/ria31.html#Khenifar-Bessadi17
+jfsma,JFSMA,,Conference,,https://dblp.org/db/conf/jfsma/jfsma2016.html#Khenifar-Bessadi16
+rivf,RIVF,,Conference,,https://dblp.org/db/conf/rivf/rivf2016.html#Khenifar-Bessadi16
+iwwiss,IWWISS,,Conference,,https://dblp.org/db/conf/iwwiss/iwwiss2014.html#KhenifarJOBK14
+ciia,CIIA,,Conference,,https://dblp.org/db/conf/ciia/ciia2015.html#ChouderCS15
+sensors,Sensors,,Journal,,https://dblp.org/db/journals/sensors/sensors22.html#NaemKO22
+kes,KES,,Conference,,https://dblp.org/db/conf/kes/kes2023.html#BeldiB23
+cec,CEC,,Conference,,https://dblp.org/db/conf/cec/cec2019.html#BeldiB19
+bcca,BCCA,,Conference,,https://dblp.org/db/conf/bcca/bcca2023.html#YaminaY23
+ic3k,KDIR,,Conference,,https://dblp.org/db/conf/ic3k/kdir2021.html#DjahnitB21
+algorithms,Algorithms,,Journal,,https://dblp.org/db/journals/algorithms/algorithms16.html#TouafekTL23
+iccci,ICCCI,,Conference,,https://dblp.org/db/conf/iccci/iccci2022.html#TouafekTLDB22
+ijpp,Int. J. Parallel Program.,,Journal,,https://dblp.org/db/journals/ijpp/ijpp51.html#HakimiBC23
+nca,Neural Comput. Appl.,,Journal,,https://dblp.org/db/journals/nca/nca35.html#GoumiriBP23
+isc2,ISC2,,Conference,,https://dblp.org/db/conf/isc2/isc2021.html#GoumiriBP21
+icaart,ICAART (Revised Selected Paper),,Conference,,https://dblp.org/db/conf/icaart/icaart2023s.html#NadjehAN23a
+sle,Smart Learn. Environ.,,Journal,,https://dblp.org/db/journals/sle/sle10.html#KhaldiBN23
+webist,WEBIST,,Conference,,https://dblp.org/db/conf/webist/webist2023.html#BoukabeneTD23
+corr,CoRR,,Journal,,https://dblp.org/db/journals/corr/corr2103.html#abs-2103-07754
+tjs,J. Supercomput.,,Journal,,https://dblp.org/db/journals/tjs/tjs80.html#AzzouziAKIH24
+corr,CoRR,,Journal,,https://dblp.org/db/journals/corr/corr2308.html#abs-2308-04261
+firai,Frontiers Robotics AI,,Journal,,https://dblp.org/db/journals/firai/firai9.html#KhenifarJOBK22
+jpdc,J. Parallel Distributed Comput.,,Journal,,https://dblp.org/db/journals/jpdc/jpdc161.html#KadriK22
+sensors,Sensors,,Journal,,https://dblp.org/db/journals/sensors/sensors22.html#NaemKO22
+iet-bmt,IET Biom.,,Journal,,https://dblp.org/db/journals/iet-bmt/iet-bmt10.html#ArtabazSBK21
+iotj,IEEE Internet Things J.,,Journal,,https://dblp.org/db/journals/iotj/iotj7.html#HellaouiKB20
+jsa,J. Syst. Archit.,,Journal,,https://dblp.org/db/journals/jsa/jsa92.html#KadriK19
+iecon,IECON,,Conference,,https://dblp.org/db/conf/iecon/iecon2019.html#FaisalBK19
+ijautcomp,Int. J. Autom. Comput.,,Journal,,https://dblp.org/db/journals/ijautcomp/ijautcomp15.html#GoudjilKBG18
+sj,IEEE Syst. J.,,Journal,,https://dblp.org/db/journals/sj/sj12.html#HamaniJOBLK18
+tbc,IEEE Trans. Broadcast.,,Journal,,https://dblp.org/db/journals/tbc/tbc64.html#MaraiTMK18
+icc,ICC,,Conference,,https://dblp.org/db/conf/icc/icc2018.html#BelkhiriBRK18
+icecsys,ICECS,,Conference,,https://dblp.org/db/conf/icecsys/icecsys2018.html#KadriYKK18
+cn,Comput. Networks,,Journal,,https://dblp.org/db/journals/cn/cn127.html#HellaouiKB17
+ria,Rev. d'Intelligence Artif.,,Journal,,https://dblp.org/db/journals/ria/ria31.html#Khenifar-Bessadi17
+telsys,Telecommun. Syst.,,Journal,,https://dblp.org/db/journals/telsys/telsys65.html#TalbiKBB17
+his,HIS,,Conference,,https://dblp.org/db/conf/his/his2016.html#DellysSABK16
+isda,ISDA,,Conference,,https://dblp.org/db/conf/isda/isda2016.html#ArtabazSDBK16
+jfsma,JFSMA,,Conference,,https://dblp.org/db/conf/jfsma/jfsma2016.html#Khenifar-Bessadi16
+lcn,LCN,,Conference,,https://dblp.org/db/conf/lcn/lcn2016.html#HellaouiBK16
+mcsoc,MCSoC,,Conference,,https://dblp.org/db/conf/mcsoc/mcsoc2016.html#GabisSBKB16
+rivf,RIVF,,Conference,,https://dblp.org/db/conf/rivf/rivf2016.html#Khenifar-Bessadi16
+globecom,GLOBECOM,,Conference,,https://dblp.org/db/conf/globecom/globecom2015.html#TalbiKBB15
+idt,IDT,,Conference,,https://dblp.org/db/conf/idt/idt2015.html#MediouniNBBK15
+ivic,IVIC,,Conference,,https://dblp.org/db/conf/ivic/ivic2015.html#ArtabazSBDK15
+mobisys,IoT-Sys@MobiSys,,Conference,,https://dblp.org/db/conf/mobisys/iot-sys2015.html#HellaouiK15
+jnca,J. Netw. Comput. Appl.,,Journal,,https://dblp.org/db/journals/jnca/jnca45.html#BenhamidaCK14
+IEEEias,IAS,,Conference,,https://dblp.org/db/conf/IEEEias/IEEEias2014.html#ArtabazBKNB14
+iwwiss,IWWISS,,Conference,,https://dblp.org/db/conf/iwwiss/iwwiss2014.html#KhenifarJOBK14
+cason,CASoN,,Conference,,https://dblp.org/db/conf/cason/cason2012.html#NabilKMA12
+iscc,ISCC,,Conference,,https://dblp.org/db/conf/iscc/iscc2012.html#BechkitKCBSB12
+ieeeIA,IEEE IA,,Conference,,https://dblp.org/db/conf/ieeeIA/ieeeIA2011.html#HamaniJOK11
+wd,Wireless Days,,Conference,,https://dblp.org/db/conf/wd/wd2011.html#BenhamidaCK11
+medes,MEDES,,Conference,,https://dblp.org/db/conf/medes/medes2009.html#HamaniJKO09
+amc,Appl. Math. Comput.,,Journal,,https://dblp.org/db/journals/amc/amc186.html#KoudilBTS07
+iwinac,IWINAC (2),,Conference,,https://dblp.org/db/conf/iwinac/iwinac2005-2.html#BenatchbaAK05
+smc,SMC (4),,Conference,,https://dblp.org/db/conf/smc/smc2004-4.html#AdmaneBKDGH04
+iwann,IWANN (2),,Conference,,https://dblp.org/db/conf/iwann/iwann2003-2.html#KoudilBD03
+iotj,IEEE Internet Things J.,,Journal,,https://dblp.org/db/journals/iotj/iotj11.html#AssenineBMRB24
+corr,CoRR,,Journal,,https://dblp.org/db/journals/corr/corr2403.html#abs-2403-11522
+access,IEEE Access,,Journal,,https://dblp.org/db/journals/access/access11.html#OuladKaddourHVPBC23
+hai,HAI,,Conference,,https://dblp.org/db/conf/hai/hai2023.html#TessaAFTBN23
+iccci,ICCCI (CCIS Volume),,Conference,,https://dblp.org/db/conf/iccci/iccci2023ccis.html#CherreredMBT23
+ictai,ICTAI,,Conference,,https://dblp.org/db/conf/ictai/ictai2023.html#BoumendilBB23
+iwann,IWANN (2),,Conference,,https://dblp.org/db/conf/iwann/iwann2023-2.html#HamdadLABS23
+kes,KES,,Conference,,https://dblp.org/db/conf/kes/kes2023.html#BachaTB23
+asc,Appl. Soft Comput.,,Journal,,https://dblp.org/db/journals/asc/asc124.html#BachaBT22
+asunam,ASONAM,,Conference,,https://dblp.org/db/conf/asunam/asonam2022.html#DakicheBTSB22
+iet-bmt,IET Biom.,,Journal,,https://dblp.org/db/journals/iet-bmt/iet-bmt10.html#ArtabazSBK21
+ijbic,Int. J. Bio Inspired Comput.,,Journal,,https://dblp.org/db/journals/ijbic/ijbic18.html#DaoudiBBH21
+ngc,New Gener. Comput.,,Journal,,https://dblp.org/db/journals/ngc/ngc39.html#DakicheTBS21
+sncs,SN Comput. Sci.,,Journal,,https://dblp.org/db/journals/sncs/sncs2.html#HamdadB21
+mlsys,MLSys,,Conference,,https://dblp.org/db/conf/mlsys/mlsys2021.html#BaghdadiMLAABA21
+simultech,SIMULTECH,,Conference,,https://dblp.org/db/conf/simultech/simultech2021.html#DakicheTBSKC21
+webist,WEBIST,,Conference,,https://dblp.org/db/conf/webist/webist2021.html#DakicheBTS21
+ijcse,Int. J. Comput. Sci. Eng.,,Journal,,https://dblp.org/db/journals/ijcse/ijcse22.html#HamdadOBB20
+memetic,Memetic Comput.,,Journal,,https://dblp.org/db/journals/memetic/memetic12.html#SadegHCBHK20
+aciids,ACIIDS (1),,Conference,,https://dblp.org/db/conf/aciids/aciids2020-1.html#TerziAYB20
+misc,MISC,,Conference,,https://dblp.org/db/conf/misc/misc2020.html#SadegHKBH20
+ipm,Inf. Process. Manag.,,Journal,,https://dblp.org/db/journals/ipm/ipm56.html#DakicheTSB19
+brain,BI,,Conference,,https://dblp.org/db/conf/brain/brain2019.html#BoubakeurWLB19
+iecon,IECON,,Conference,,https://dblp.org/db/conf/iecon/iecon2019.html#FaisalBK19
+sac,SAC,,Conference,,https://dblp.org/db/conf/sac/sac2019.html#DakicheTSB19
+or,Oper. Res.,,Journal,,https://dblp.org/db/journals/or/or18.html#TayebBM18
+ciia,CIIA,,Conference,,https://dblp.org/db/conf/ciia/ciia2018.html#HamdadBBC18
+fuzzIEEE,FUZZ-IEEE,,Conference,,https://dblp.org/db/conf/fuzzIEEE/fuzzIEEE2018.html#DakicheTSB18
+ntms,NTMS,,Conference,,https://dblp.org/db/conf/ntms/ntms2018.html#DellysBSC18
+telsys,Telecommun. Syst.,,Journal,,https://dblp.org/db/journals/telsys/telsys65.html#TalbiKBB17
+jaihc,J. Ambient Intell. Humaniz. Comput.,,Journal,,https://dblp.org/db/journals/jaihc/jaihc7.html#BoukhadraBB16
+his,HIS,,Conference,,https://dblp.org/db/conf/his/his2016.html#DellysSABK16
+icsibo,ICSIBO,,Conference,,https://dblp.org/db/conf/icsibo/icsibo2016.html#KhamoudjBK16
+idc,IDC,,Conference,,https://dblp.org/db/conf/idc/idc2016.html#BoukhadraBB16
+isda,ISDA,,Conference,,https://dblp.org/db/conf/isda/isda2016.html#ArtabazSDBK16
+mcsoc,MCSoC,,Conference,,https://dblp.org/db/conf/mcsoc/mcsoc2016.html#GabisSBKB16
+3pgcic,3PGCIC,,Conference,,https://dblp.org/db/conf/3pgcic/3pgcic2015.html#BoukhadraBB15
+acii,ACII,,Conference,,https://dblp.org/db/conf/acii/acii2015.html#SidoumouTPBB15
+cdc,CDC,,Conference,,https://dblp.org/db/conf/cdc/cdc2015.html#TayebMB15
+dcai,DCAI,,Conference,,https://dblp.org/db/conf/dcai/dcai2015.html#BoukhadraBB15
+fnc,FNC/MobiSPC,,Conference,,https://dblp.org/db/conf/fnc/fnc2015.html#BoukhadraBB15
+globecom,GLOBECOM,,Conference,,https://dblp.org/db/conf/globecom/globecom2015.html#TalbiKBB15
+idt,IDT,,Conference,,https://dblp.org/db/conf/idt/idt2015.html#MediouniNBBK15
+ivic,IVIC,,Conference,,https://dblp.org/db/conf/ivic/ivic2015.html#ArtabazSBDK15
+IEEEias,IAS,,Conference,,https://dblp.org/db/conf/IEEEias/IEEEias2014.html#ArtabazBKNB14
+hpcc,HPCC/CSS/ICESS,,Conference,,https://dblp.org/db/conf/hpcc/hpcc2014.html#BoukhadraBB14
+nbis,NBiS,,Conference,,https://dblp.org/db/conf/nbis/nbis2014.html#BoukhadraBB14
+ijspm,Int. J. Simul. Process. Model.,,Journal,,https://dblp.org/db/journals/ijspm/ijspm8.html#HedjaziAAB13
+icitst,ICITST,,Conference,,https://dblp.org/db/conf/icitst/icitst2013.html#BoukhadraBB13
+iwinac,IWINAC (1),,Conference,,https://dblp.org/db/conf/iwinac/iwinac2013-1.html#HamdadABDB13
+nicso,NICSO,,Conference,,https://dblp.org/db/conf/nicso/nicso2013.html#BessedikDB13
+amt,AMT,,Conference,,https://dblp.org/db/conf/amt/amt2012.html#HedjaziAAB12
+cason,CASoN,,Conference,,https://dblp.org/db/conf/cason/cason2012.html#NabilKMA12
+iat,IAT,,Conference,,https://dblp.org/db/conf/iat/iat2012.html#HedjaziAAB12
+icaart,ICAART (2),,Conference,,https://dblp.org/db/conf/icaart/icaart2012-2.html#BadiaaMSK12
+iscc,ISCC,,Conference,,https://dblp.org/db/conf/iscc/iscc2012.html#BechkitKCBSB12
+IEEEicci,IEEE ICCI*CC,,Conference,,https://dblp.org/db/conf/IEEEicci/IEEEicci2011.html#MahmoudiBB11
+amc,Appl. Math. Comput.,,Journal,,https://dblp.org/db/journals/amc/amc186.html#KoudilBTS07
+smc,SMC (4),,Conference,,https://dblp.org/db/conf/smc/smc2004-4.html#AdmaneBKDGH04
+ejisdc,Electron. J. Inf. Syst. Dev. Ctries.,,Journal,,https://dblp.org/db/journals/ejisdc/ejisdc89.html#HarounG23
+eait,Educ. Inf. Technol.,,Journal,,https://dblp.org/db/journals/eait/eait27.html#BoutefaraMG22
+ijide,Int. J. Innov. Digit. Econ.,,Journal,,https://dblp.org/db/journals/ijide/ijide13.html#ZineMZG22
+ijssci,Int. J. Softw. Sci. Comput. Intell.,,Journal,,https://dblp.org/db/journals/ijssci/ijssci14.html#ZemmouchiGhomariBMG22
+jwe,J. Web Eng.,,Journal,,https://dblp.org/db/journals/jwe/jwe20.html#MehereheraMZG21
+ijec,Int. J. e Collab.,,Journal,,https://dblp.org/db/journals/ijec/ijec16.html#BenaliGZL20
+eis,Enterp. Inf. Syst.,,Journal,,https://dblp.org/db/journals/eis/eis13.html#SidRG19
+eda,EDA,,Conference,,https://dblp.org/db/conf/eda/eda2019.html#KhouriBGA19
+medi,MEDI,,Conference,,https://dblp.org/db/conf/medi/medi2019.html#KhouriGA19
+ciia,CIIA,,Conference,,https://dblp.org/db/conf/ciia/ciia2018.html#BenaliGZ18
+intellisys,IntelliSys (2),,Conference,,https://dblp.org/db/conf/intellisys/intellisys2018-2.html#BadsiGZ18
+ijssmet,Int. J. Serv. Sci. Manag. Eng. Technol.,,Journal,,https://dblp.org/db/journals/ijssmet/ijssmet8.html#BadsiGZ17
+icebe,ICEBE,,Conference,,https://dblp.org/db/conf/icebe/icebe2017.html#AouachriaLGGH17
+icete,ICE-B,,Conference,,https://dblp.org/db/conf/icete/ice-b2017.html#AouachriaLG17
+iscram,ISCRAM,,Conference,,https://dblp.org/db/conf/iscram/iscram2017.html#BenaliG17
+ict-dm,ICT-DM,,Conference,,https://dblp.org/db/conf/ict-dm/ict-dm2016.html#BenaliG16
+ijbis,Int. J. Bus. Inf. Syst.,,Journal,,https://dblp.org/db/journals/ijbis/ijbis19.html#BadsiZG15
+iciip,IPAC,,Conference,,https://dblp.org/db/conf/iciip/ipac2015.html#AouachriaGS15
+ijws,Int. J. Web Sci.,,Journal,,https://dblp.org/db/journals/ijws/ijws1.html#Zemmouchi-GhomariG12
+cisis,CISIS,,Conference,,https://dblp.org/db/conf/cisis/cisis2009.html#GhomariG09
+sitis,SITIS,,Conference,,https://dblp.org/db/conf/sitis/sitis2009.html#Zemmouchi-GhomariG09
+ecs,Egypt. Comput. Sci. J.,,Journal,,https://dblp.org/db/journals/ecs/ecs29.html#GhomariCA07
+ijseke,Int. J. Softw. Eng. Knowl. Eng.,,Journal,,https://dblp.org/db/journals/ijseke/ijseke33.html#BensattalahCN23
+jksucis,J. King Saud Univ. Comput. Inf. Sci.,,Journal,,https://dblp.org/db/journals/jksucis/jksucis35.html#BoumahdiOCHM23
+ijkl,Int. J. Knowl. Learn.,,Journal,,https://dblp.org/db/journals/ijkl/ijkl15.html#LadegC22
+worldcist,WorldCIST (1),,Conference,,https://dblp.org/db/conf/worldcist/worldcist2022-1.html#LounesROCH22
+ao,Appl. Ontology,,Journal,,https://dblp.org/db/journals/ao/ao14.html#BouzidiNNC19
+dke,Data Knowl. Eng.,,Journal,,https://dblp.org/db/journals/dke/dke120.html#OuaretBBC19
+is,Inf. Syst.,,Journal,,https://dblp.org/db/journals/is/is79.html#ChouderRC19
+icbdt,ICBDT,,Conference,,https://dblp.org/db/conf/icbdt/icbdt2019.html#TaibouniC19
+icist2,ICIST,,Conference,,https://dblp.org/db/conf/icist2/icist2019.html#BouzidiBNC19
+ijbis,Int. J. Bus. Inf. Syst.,,Journal,,https://dblp.org/db/journals/ijbis/ijbis29.html#AissaANC18
+jdiq,ACM J. Data Inf. Qual.,,Journal,,https://dblp.org/db/journals/jdiq/jdiq8.html#AbdellaouiNC17
+edbt,EDBT/ICDT Workshops,,Conference,,https://dblp.org/db/conf/edbt/edbtw2017.html#ChouderRC17
+soca,Serv. Oriented Comput. Appl.,,Journal,,https://dblp.org/db/journals/soca/soca10.html#BoumahdiCGG16
+ijmso,Int. J. Metadata Semant. Ontologies,,Journal,,https://dblp.org/db/journals/ijmso/ijmso10.html#FarehBC15
+ciia,CIIA,,Conference,,https://dblp.org/db/conf/ciia/ciia2015.html#ChouderCS15
+icalt,ICALT,,Conference,,https://dblp.org/db/conf/icalt/icalt2015.html#MokeddemDR15
+ijssoe,Int. J. Syst. Serv. Oriented Eng.,,Journal,,https://dblp.org/db/journals/ijssoe/ijssoe4.html#BoumahdiC14
+jdim,J. Digit. Inf. Manag.,,Journal,,https://dblp.org/db/journals/jdim/jdim12.html#OuaretCB14
+aiccsa,AICCSA,,Conference,,https://dblp.org/db/conf/aiccsa/aiccsa2014.html#OuaretBC14
+icdim,ICDIM,,Conference,,https://dblp.org/db/conf/icdim/icdim2014.html#OuaretBC14
+corr,CoRR,,Journal,,https://dblp.org/db/journals/corr/corr1401.html#BoumahdiC14
+ijicot,Int. J. Inf. Coding Theory,,Journal,,https://dblp.org/db/journals/ijicot/ijicot2.html#OuaretCB13
+kes,KES,,Conference,,https://dblp.org/db/conf/kes/kes2013.html#BoumahdiC13
+sci,Modeling Approaches and Algorithms for Advanced Computer Applications,,Conference,,https://dblp.org/db/series/sci/sci488.html#FarehBC13
+ecs,Egypt. Comput. Sci. J.,,Journal,,https://dblp.org/db/journals/ecs/ecs29.html#GhomariCA07
+ijgs,Int. J. Gen. Syst.,,Journal,,https://dblp.org/db/journals/ijgs/ijgs53.html#KerkacheST24
+mta,Multim. Tools Appl.,,Journal,,https://dblp.org/db/journals/mta/mta83.html#KerkacheST24
+icaart,ICAART (3),,Conference,,https://dblp.org/db/conf/icaart/icaart2024-3.html#BoukabeneTD24
+corr,CoRR,,Journal,,https://dblp.org/db/journals/corr/corr2403.html#abs-2403-11522
+algorithms,Algorithms,,Journal,,https://dblp.org/db/journals/algorithms/algorithms16.html#TouafekTL23
+asc,Appl. Soft Comput.,,Journal,,https://dblp.org/db/journals/asc/asc144.html#LaidouiBT23
+ngc,New Gener. Comput.,,Journal,,https://dblp.org/db/journals/ngc/ngc41.html#KerkacheST23
+iccci,ICCCI (CCIS Volume),,Conference,,https://dblp.org/db/conf/iccci/iccci2023ccis.html#CherreredMBT23
+kes,KES,,Conference,,https://dblp.org/db/conf/kes/kes2023.html#BachaTB23
+webist,WEBIST,,Conference,,https://dblp.org/db/conf/webist/webist2023.html#BoukabeneTD23
+ijmr,Int. J. Manuf. Res.,,Journal,,https://dblp.org/db/journals/ijmr/ijmr17.html#TouatTB22
+asunam,ASONAM,,Conference,,https://dblp.org/db/conf/asunam/asonam2022.html#DakicheBTSB22
+cc,CC,,Conference,,https://dblp.org/db/conf/cc/cc2022.html#KourtaNTHCLB22
+csa3,CSA,,Conference,,https://dblp.org/db/conf/csa3/csa2022.html#KerkacheSTA22
+simultech,SIMULTECH,,Conference,,https://dblp.org/db/conf/simultech/simultech2021.html#DakicheTBSKC21
+eaai,Eng. Appl. Artif. Intell.,,Journal,,https://dblp.org/db/journals/eaai/eaai87.html#KioucheBTK20
+sac,SAC,,Conference,,https://dblp.org/db/conf/sac/sac2020.html#LaidouiTBL20
+ipm,Inf. Process. Manag.,,Journal,,https://dblp.org/db/journals/ipm/ipm56.html#DakicheTSB19
+iecon,IECON,,Conference,,https://dblp.org/db/conf/iecon/iecon2019.html#KhamoudjTBB19
+isie,ISIE,,Conference,,https://dblp.org/db/conf/isie/isie2019.html#LadjTVDS19
+smc,SMC,,Conference,,https://dblp.org/db/conf/smc/smc2019.html#TouatTBSAK19
+or,Oper. Res.,,Journal,,https://dblp.org/db/journals/or/or18.html#TayebBM18
+etfa,ETFA,,Conference,,https://dblp.org/db/conf/etfa/etfa2018.html#LadjTV18
+fuzzIEEE,FUZZ-IEEE,,Conference,,https://dblp.org/db/conf/fuzzIEEE/fuzzIEEE2018.html#DakicheTSB18
+ictai,ICTAI,,Conference,,https://dblp.org/db/conf/ictai/ictai2017.html#TouatTBB17
+ijris,Int. J. Reason. based Intell. Syst.,,Journal,,https://dblp.org/db/journals/ijris/ijris8.html#Sadeg-BelkacemH16
+cec,CEC,,Conference,,https://dblp.org/db/conf/cec/cec2016.html#LadjTV16
+candie,Comput. Ind. Eng.,,Journal,,https://dblp.org/db/journals/candie/candie90.html#Bouzidi-Hassini15
+cdc,CDC,,Conference,,https://dblp.org/db/conf/cdc/cdc2015.html#TayebMB15
+ijiei,Int. J. Intell. Eng. Informatics,,Journal,,https://dblp.org/db/journals/ijiei/ijiei2.html#KhelifatiB13
+hpcc,HPCC/EUC,,Conference,,https://dblp.org/db/conf/hpcc/hpcc2013.html#BendjoudiCGMBSM13
+isda,ISDA,,Conference,,https://dblp.org/db/conf/isda/isda2011.html#KhelifatiB11
+iwinac,IWINAC (1),,Conference,,https://dblp.org/db/conf/iwinac/iwinac2007-1.html#Benbouzid-SitayebTM07
+iwann,IWANN (2),,Conference,,https://dblp.org/db/conf/iwann/iwann2003-2.html#BenbouzidVZ03
+ijseke,Int. J. Softw. Eng. Knowl. Eng.,,Journal,,https://dblp.org/db/journals/ijseke/ijseke33.html#BensattalahCN23
+sle,Smart Learn. Environ.,,Journal,,https://dblp.org/db/journals/sle/sle10.html#KhaldiBN23
+icaart,ICAART (Revised Selected Paper),,Conference,,https://dblp.org/db/conf/icaart/icaart2023s.html#NadjehAN23a
+kes,KES,,Conference,,https://dblp.org/db/conf/kes/kes2020.html#MeghatriaLN20
+ao,Appl. Ontology,,Journal,,https://dblp.org/db/journals/ao/ao14.html#BouzidiNNC19
+jaihc,J. Ambient Intell. Humaniz. Comput.,,Journal,,https://dblp.org/db/journals/jaihc/jaihc10.html#OuadahHNB19
+icist2,ICIST,,Conference,,https://dblp.org/db/conf/icist2/icist2019.html#BouzidiBNC19
+ijbis,Int. J. Bus. Inf. Syst.,,Journal,,https://dblp.org/db/journals/ijbis/ijbis29.html#AissaANC18
+ijict,Int. J. Inf. Commun. Technol.,,Journal,,https://dblp.org/db/journals/ijict/ijict13.html#NachidaFF18
+misc,MISC,,Conference,,https://dblp.org/db/conf/misc/misc2018.html#OuadahHNB18
+jdiq,ACM J. Data Inf. Qual.,,Journal,,https://dblp.org/db/journals/jdiq/jdiq8.html#AbdellaouiNC17
+ccgrid,CCGrid,,Conference,,https://dblp.org/db/conf/ccgrid/ccgrid2016.html#AbdellaouiBN16
+adbis,ADBIS (Short Papers and Workshops),,Conference,,https://dblp.org/db/conf/adbis/adbis2015w.html#KhouriAN15
+soca,SOCA,,Conference,,https://dblp.org/db/conf/soca/soca2015.html#OuadahBHN15
+icitst,ICITST,,Conference,,https://dblp.org/db/conf/icitst/icitst2014.html#AmmarF14
+icwit,ICWIT,,Conference,,https://dblp.org/db/conf/icwit/icwit2012.html#AmelF12
+ciia,CIIA,,Conference,,https://dblp.org/db/conf/ciia/ciia2011.html#NachidaOF11
+ic3k,KDIR,,Conference,,https://dblp.org/db/conf/ic3k/kdir2011.html#NachidaBN11
+ir,Inf. Retr. J.,,Journal,,https://dblp.org/db/journals/ir/ir26.html#AlKhatibZSB23
+comcom,Comput. Commun.,,Journal,,https://dblp.org/db/journals/comcom/comcom181.html#BoutibaKBCB22
+globecom,GLOBECOM,,Conference,,https://dblp.org/db/conf/globecom/globecom2020.html#Si-MohammedKBCB20
+cogsr,Cogn. Syst. Res.,,Journal,,https://dblp.org/db/journals/cogsr/cogsr56.html#MostefaiBT19
+ijris,Int. J. Reason. based Intell. Syst.,,Journal,,https://dblp.org/db/journals/ijris/ijris11.html#ZerroukiSBBSB19
+ipm,Inf. Process. Manag.,,Journal,,https://dblp.org/db/journals/ipm/ipm53.html#DahakBB17
+ijet,Int. J. Emerg. Technol. Learn.,,Journal,,https://dblp.org/db/journals/ijet/ijet11.html#AddaBB16
+ijst,Int. J. Speech Technol.,,Journal,,https://dblp.org/db/journals/ijst/ijst19.html#LoukamBL16
+jaihc,J. Ambient Intell. Humaniz. Comput.,,Journal,,https://dblp.org/db/journals/jaihc/jaihc7.html#BoukhadraBB16
+idc,IDC,,Conference,,https://dblp.org/db/conf/idc/idc2016.html#BoukhadraBB16
+3pgcic,3PGCIC,,Conference,,https://dblp.org/db/conf/3pgcic/3pgcic2015.html#BoukhadraBB15
+dcai,DCAI,,Conference,,https://dblp.org/db/conf/dcai/dcai2015.html#BoukhadraBB15
+fnc,FNC/MobiSPC,,Conference,,https://dblp.org/db/conf/fnc/fnc2015.html#BoukhadraBB15
+wanlp,ANLP@ACL,,Conference,,https://dblp.org/db/conf/wanlp/wanlp2015.html#ZaghouaniZB15
+ijtem,Int. J. Technol. Educ. Mark.,,Journal,,https://dblp.org/db/journals/ijtem/ijtem4.html#BezzaBM14
+ijwa,Int. J. Web Appl.,,Journal,,https://dblp.org/db/journals/ijwa/ijwa6.html#AddaB14
+hpcc,HPCC/CSS/ICESS,,Conference,,https://dblp.org/db/conf/hpcc/hpcc2014.html#BoukhadraBB14
+icsibo,ICSIBO,,Conference,,https://dblp.org/db/conf/icsibo/icsibo2014.html#AddaB14
+nbis,NBiS,,Conference,,https://dblp.org/db/conf/nbis/nbis2014.html#BoukhadraBB14
+icitst,ICITST,,Conference,,https://dblp.org/db/conf/icitst/icitst2013.html#BoukhadraBB13
+icwl,ICWL Workshops,,Conference,,https://dblp.org/db/conf/icwl/icwl2013w.html#BousbiaGB13
+icwit,ICWIT,,Conference,,https://dblp.org/db/conf/icwit/icwit2012.html#AdelKA12
+ijlt,Int. J. Learn. Technol.,,Journal,,https://dblp.org/db/journals/ijlt/ijlt6.html#BousbiaLBR11
+csedu,CSEDU (1),,Conference,,https://dblp.org/db/conf/csedu/csedu2011-1.html#BallaB11
+umuai,User Model. User Adapt. Interact.,,Journal,,https://dblp.org/db/journals/umuai/umuai20.html#BousbiaRLB10
+edm,EDM,,Conference,,https://dblp.org/db/conf/edm/edm2010.html#BousbiaLBR10
+iajit,Int. Arab J. Inf. Technol.,,Journal,,https://dblp.org/db/journals/iajit/iajit6.html#Balla09
+ciia,CIIA,,Conference,,https://dblp.org/db/conf/ciia/ciia2009.html#BoudaliBA09
+icalt,ICALT,,Conference,,https://dblp.org/db/conf/icalt/icalt2009.html#BousbiaLRB09
+iscc,ISCC,,Conference,,https://dblp.org/db/conf/iscc/iscc2009.html#BousbiaBR09
+inforsid,INFORSID,,Conference,,https://dblp.org/db/conf/inforsid/inforsid2008.html#DahakBB08
+its,Intelligent Tutoring Systems,,Conference,,https://dblp.org/db/conf/its/its2008.html#BousbiaLB08
+springer,"Innovative Techniques in Instruction Technology, E-learning, E-assessment, and Education",,Conference,,https://dblp.org/db/series/springer/Iskander2008.html#BallaS08
+aiccsa,AICCSA,,Conference,,https://dblp.org/db/conf/aiccsa/aiccsa2007.html#Balla07
+awic,AWIC,,Conference,,https://dblp.org/db/conf/awic/awic2007.html#AmroucheABM07
+dn,Document Numérique,,Journal,,https://dblp.org/db/journals/dn/dn7.html#BallaLL03
+asc,Appl. Soft Comput.,,Journal,,https://dblp.org/db/journals/asc/asc144.html#LaidouiBT23
+kes,KES,,Conference,,https://dblp.org/db/conf/kes/kes2023.html#BeldiB23
+webist,WEBIST,,Conference,,https://dblp.org/db/conf/webist/webist2023.html#BerricheNYABCTB23
+ijbic,Int. J. Bio Inspired Comput.,,Journal,,https://dblp.org/db/journals/ijbic/ijbic18.html#DaoudiBBH21
+ic3k,KDIR,,Conference,,https://dblp.org/db/conf/ic3k/kdir2021.html#DjahnitB21
+eaai,Eng. Appl. Artif. Intell.,,Journal,,https://dblp.org/db/journals/eaai/eaai87.html#KioucheBTK20
+istr,J. Inf. Secur. Appl.,,Journal,,https://dblp.org/db/journals/istr/istr50.html#BoussahaCBB20
+sac,SAC,,Conference,,https://dblp.org/db/conf/sac/sac2020.html#LaidouiTBL20
+cec,CEC,,Conference,,https://dblp.org/db/conf/cec/cec2019.html#BeldiB19
+softcom,SoftCOM,,Conference,,https://dblp.org/db/conf/softcom/softcom2017.html#BoussahaCBB17
+ijmheur,Int. J. Metaheuristics,,Journal,,https://dblp.org/db/journals/ijmheur/ijmheur3.html#HadjiMMB14
+nicso,NICSO,,Conference,,https://dblp.org/db/conf/nicso/nicso2013.html#BessedikDB13
+IEEEicci,IEEE ICCI*CC,,Conference,,https://dblp.org/db/conf/IEEEicci/IEEEicci2011.html#MahmoudiBB11
+cimca,CIMCA/IAWTIC,,Conference,,https://dblp.org/db/conf/cimca/cimca2005-1.html#BessedikLBD05
+icaase,ICAASE,,Conference,,https://dblp.org/db/conf/icaase/icaase2022.html#BensbaAZB22
+sac,SAC,,Conference,,https://dblp.org/db/conf/sac/sac2021.html#GattalHBH21
+ijris,Int. J. Reason. based Intell. Syst.,,Journal,,https://dblp.org/db/journals/ijris/ijris11.html#ZerroukiSBBSB19
+icse,MOBILESoft@ICSE,,Conference,,https://dblp.org/db/conf/icse/mobilesoft2019.html#RubinHMBB19
+ijet,Int. J. Emerg. Technol. Learn.,,Journal,,https://dblp.org/db/journals/ijet/ijet11.html#AddaBB16
+icwl,ICWL Workshops,,Conference,,https://dblp.org/db/conf/icwl/icwl2013w.html#BousbiaGB13
+ijlt,Int. J. Learn. Technol.,,Journal,,https://dblp.org/db/journals/ijlt/ijlt6.html#BousbiaLBR11
+csedu,CSEDU (1),,Conference,,https://dblp.org/db/conf/csedu/csedu2011-1.html#BallaB11
+umuai,User Model. User Adapt. Interact.,,Journal,,https://dblp.org/db/journals/umuai/umuai20.html#BousbiaRLB10
+edm,EDM,,Conference,,https://dblp.org/db/conf/edm/edm2010.html#BousbiaLBR10
+icalt,ICALT,,Conference,,https://dblp.org/db/conf/icalt/icalt2009.html#BousbiaLRB09
+iscc,ISCC,,Conference,,https://dblp.org/db/conf/iscc/iscc2009.html#BousbiaBR09
+its,Intelligent Tutoring Systems,,Conference,,https://dblp.org/db/conf/its/its2008.html#BousbiaLB08
+sncs,SN Comput. Sci.,,Journal,,https://dblp.org/db/journals/sncs/sncs4.html#MahiouGS23
+corr,CoRR,,Journal,,https://dblp.org/db/journals/corr/corr2103.html#abs-2103-07754
+aiccsa,AICCSA,,Conference,,https://dblp.org/db/conf/aiccsa/aiccsa2020.html#GuerroutMMH20
+iajit,Int. Arab J. Inf. Technol.,,Journal,,https://dblp.org/db/journals/iajit/iajit15.html#GuerroutMA18
+jetai,J. Exp. Theor. Artif. Intell.,,Journal,,https://dblp.org/db/journals/jetai/jetai30.html#GuerroutAMM18
+ciia,CIIA,,Conference,,https://dblp.org/db/conf/ciia/ciia2018.html#GuerroutAMM18
+icpram,ICPRAM,,Conference,,https://dblp.org/db/conf/icpram/icpram2016.html#GuerroutAMM16
+medprai,MedPRAI,,Conference,,https://dblp.org/db/conf/medprai/medprai2016.html#GuerroutAMM16
+iv,IV,,Conference,,https://dblp.org/db/conf/iv/iv2014.html#Ait-AoudiaGM14
+nca,Neural Comput. Appl.,,Journal,,https://dblp.org/db/journals/nca/nca35.html#GoumiriBP23
+isc2,ISC2,,Conference,,https://dblp.org/db/conf/isc2/isc2021.html#GoumiriBP21
+tac,IEEE Trans. Autom. Control.,,Journal,,https://dblp.org/db/journals/tac/tac60.html#AbbassiBDP15
+icassp,ICASSP,,Conference,,https://dblp.org/db/conf/icassp/icassp2013.html#BenboudjemaODP13
+ei-mobmu,Multimedia on Mobile Devices / Multimedia Content Access: Algorithms and Systems,,Conference,,https://dblp.org/db/conf/ei-mobmu/ei-mobmu2011.html#BenboudjemaP11
+pami,IEEE Trans. Pattern Anal. Mach. Intell.,,Journal,,https://dblp.org/db/journals/pami/pami29.html#BenboudjemaP07
+igarss,IGARSS,,Conference,,https://dblp.org/db/conf/igarss/igarss2007.html#BenboudjemaTPSN07
+ivc,Image Vis. Comput.,,Journal,,https://dblp.org/db/journals/ivc/ivc24.html#PieczynskiB06
+cviu,Comput. Vis. Image Underst.,,Journal,,https://dblp.org/db/journals/cviu/cviu99.html#BenboudjemaP05
+icip,ICIP (1),,Conference,,https://dblp.org/db/conf/icip/icip2005-1.html#BenboudjemaP05
+sj,IEEE Syst. J.,,Journal,,https://dblp.org/db/journals/sj/sj12.html#HamaniJOBLK18
+ieeeIA,IEEE IA,,Conference,,https://dblp.org/db/conf/ieeeIA/ieeeIA2011.html#HamaniJOK11
+jfsma,JFSMA,,Conference,,https://dblp.org/db/conf/jfsma/jfsma2011.html#HamaniJOK11
+medes,MEDES,,Conference,,https://dblp.org/db/conf/medes/medes2009.html#HamaniJKO09
+iwinac,IWINAC (2),,Conference,,https://dblp.org/db/conf/iwinac/iwinac2005-2.html#KoudilBGH05
+smc,SMC (4),,Conference,,https://dblp.org/db/conf/smc/smc2004-4.html#AdmaneBKDGH04
+jaihc,J. Ambient Intell. Humaniz. Comput.,,Journal,,https://dblp.org/db/journals/jaihc/jaihc7.html#BoukhadraBB16
+idc,IDC,,Conference,,https://dblp.org/db/conf/idc/idc2016.html#BoukhadraBB16
+3pgcic,3PGCIC,,Conference,,https://dblp.org/db/conf/3pgcic/3pgcic2015.html#BoukhadraBB15
+dcai,DCAI,,Conference,,https://dblp.org/db/conf/dcai/dcai2015.html#BoukhadraBB15
+fnc,FNC/MobiSPC,,Conference,,https://dblp.org/db/conf/fnc/fnc2015.html#BoukhadraBB15
+hpcc,HPCC/CSS/ICESS,,Conference,,https://dblp.org/db/conf/hpcc/hpcc2014.html#BoukhadraBB14
+nbis,NBiS,,Conference,,https://dblp.org/db/conf/nbis/nbis2014.html#BoukhadraBB14
+icitst,ICITST,,Conference,,https://dblp.org/db/conf/icitst/icitst2013.html#BoukhadraBB13
+icwit,ICWIT,,Conference,,https://dblp.org/db/conf/icwit/icwit2012.html#AdelKA12

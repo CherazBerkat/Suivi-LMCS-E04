@@ -1,0 +1,24 @@
+ul {
+    @apply flex flex-col gap-4;
+  }
+  
+  li a {
+    @apply flex flex-row gap-2 px-[20px] items-center;
+  }
+  
+  li {
+    @apply rounded-sm;
+  }
+  
+  @media (max-width: 1272px) {
+    li a {
+      @apply px-0 gap-0;
+    }
+  }
+  
+  @media (max-width: 1171px) {
+    a img {
+      @apply h-0 w-0;
+    }
+  }
+  

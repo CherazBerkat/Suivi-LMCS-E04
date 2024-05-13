@@ -1,0 +1,31 @@
+@keyframes top_to_bottom {
+    0% { top: -20%;
+           left: -20%; }
+    50% {    top: 0%;
+            left: 20%;
+             }
+    100% { top: 5%;
+           left: 50%;}         
+
+}
+@keyframes bottom_to_top {
+    0% { top: 5%;
+        left: 50%;}
+    50% {    top: 0%;
+            left: 20%;
+             }
+    100% { top: -20%;
+        left: -20%; }        
+
+}
+
+.aniamte_top_to_bottom {
+    animation: top_to_bottom;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+.aniamte_bottom_to_top {
+    animation: bottom_to_top;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}

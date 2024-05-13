@@ -1,0 +1,403 @@
+ConfJournal_id,titre_publication,chercheur_id,date_publication,lien,nombre_pages,nombre_volumes
+firai,A Meta-Agent Based Approach to Exploit the Collective Product of Mobile Cyber-Physical Collectives.,90000000,2022,https://dblp.org/rec/journals/firai/KhenifarJOBK22,,9
+ria,De la coopération de collectifs multi-agents. Un modèle d'utilisation de productions collectives.,90000000,2017,https://dblp.org/rec/journals/ria/Khenifar-Bessadi17,97-132,31
+jfsma,De la coopération des productions collectives dans un contexte multi-agent (présentation courte).,90000000,2016,https://dblp.org/rec/conf/jfsma/Khenifar-Bessadi16,43-52,
+rivf,About cooperation of multiagent collective products: An approach in the context of cyber-physical systems.,90000000,2016,https://dblp.org/rec/conf/rivf/Khenifar-Bessadi16,19-24,
+iwwiss,A recursive approach to enable the collective level interaction of the Web of Things applications.,90000000,2014,https://dblp.org/rec/conf/iwwiss/KhenifarJOBK14,13:1-13:2,
+ciia,Requirement Analysis in Data Warehouses to Support External Information.,90000001,2015,https://dblp.org/rec/conf/ciia/ChouderCS15,243-253,
+ciia,Engineering the Requirements of Data Warehouses: A Comparative Study of Goal-Oriented Approaches.,90000001,2015,https://dblp.org/rec/conf/ciia/SetraCC15,254-265,
+sensors,Product Quality Assessment in the Internet of Things: A Consumer-Oriented Approach.,90000003,2022,https://dblp.org/rec/journals/sensors/NaemKO22,2215,22
+kes,A QLearning Approach for an efficient Estimation Of Initial Number of Communities in social networks.,90000004,2023,https://dblp.org/rec/conf/kes/BeldiB23,3785-3794,
+cec,A New Brainstorming Based Algorithm for the Community Detection Problem.,90000004,2019,https://dblp.org/rec/conf/cec/BeldiB19,2958-2965,
+bcca,SuperChain: Decentralized and Trustful Supervised Learning over Blockchain.,90000005,2023,https://dblp.org/rec/conf/bcca/YaminaY23,627-634,
+kes,A New Branch and Bound Algorithm for Mining Frequent Conceptual Links in Social Networks.,90000006,2023,https://dblp.org/rec/conf/kes/DjahnitB23,4399-4409,
+ic3k,Exhaustive Solution for Mining Frequent Conceptual Links in Large Networks using a Binary Compressed Representation.,90000006,2021,https://dblp.org/rec/conf/ic3k/DjahnitB21,180-190,
+algorithms,A Reinforcing-Learning-Driven Artificial Bee Colony Algorithm for Scheduling Jobs and Flexible Maintenance under Learning and Deteriorating Effects.,90000007,2023,https://dblp.org/rec/journals/algorithms/TouafekTL23,397,16
+iccci,An Integrated Artificial Bee Colony Algorithm for Scheduling Jobs and Flexible Maintenance with Learning and Deteriorating Effects.,90000007,2022,https://dblp.org/rec/conf/iccci/TouafekTLDB22,647-659,
+kes,"Permutation Flowshop Scheduling Problem Considering Learning, Deteriorating Effects and Flexible Maintenance.",90000007,2022,https://dblp.org/rec/conf/kes/TouafekLTDB22,2518-2525,
+ijpp,A Hybrid Machine Learning Model for Code Optimization.,90000008,2023,https://dblp.org/rec/journals/ijpp/HakimiBC23,309-331,51
+nca,A new hybrid model of convolutional neural networks and hidden Markov chains for image classification.,90000009,2023,https://dblp.org/rec/journals/nca/GoumiriBP23,17987-18002,35
+isc2,One Convolutional Layer Model For Parking Occupancy Detection.,90000009,2021,https://dblp.org/rec/conf/isc2/GoumiriBP21,1-5,
+icaart,RDC-Repair: Towards a Relevance-Driven Approach for Data and Constraints Repair.,90000010,2023,https://dblp.org/rec/conf/icaart/NadjehAN23a,448-468,
+icaart,CSP-DC: Data Cleaning via Constraint Satisfaction Problem Solving.,90000010,2023,https://dblp.org/rec/conf/icaart/NadjehAN23,478-488,
+sle,Gamification of e-learning in higher education: a systematic literature review.,90000013,2023,https://dblp.org/rec/journals/sle/KhaldiBN23,10,10
+icaart,Flattening Based Cuckoo Search Optimization Algorithm for Community Detection in Multiplex Networks.,90000016,2024,https://dblp.org/rec/conf/icaart/BoukabeneTD24,519-526,
+webist,Improved Random Key Cuckoo Search Optimization Algorithm for Community Detection in Social Networks.,90000016,2023,https://dblp.org/rec/conf/webist/BoukabeneTD23,113-120,
+corr,Image Segmentation Methods for Non-destructive testing Applications.,90000016,2021,https://dblp.org/rec/journals/corr/abs-2103-07754,,abs/2103.07754
+corr,hidden markov random fields and cuckoo search method for medical image segmentation.,90000016,2020,https://dblp.org/rec/journals/corr/abs-2005-09377,,abs/2005.09377
+tjs,Novel area-efficient and flexible architectures for optimal Ate pairing on FPGA.,2000057,2024,https://dblp.org/rec/journals/tjs/AzzouziAKIH24,2633-2659,80
+corr,Novel Area-Efficient and Flexible Architectures for Optimal Ate Pairing on FPGA.,2000057,2023,https://dblp.org/rec/journals/corr/abs-2308-04261,,abs/2308.04261
+firai,A Meta-Agent Based Approach to Exploit the Collective Product of Mobile Cyber-Physical Collectives.,2000057,2022,https://dblp.org/rec/journals/firai/KhenifarJOBK22,,9
+jpdc,Multi-objective biogeography-based optimization and reinforcement learning hybridization for network-on chip reliability improvement.,2000057,2022,https://dblp.org/rec/journals/jpdc/KadriK22,20-36,161
+sensors,Product Quality Assessment in the Internet of Things: A Consumer-Oriented Approach.,2000057,2022,https://dblp.org/rec/journals/sensors/NaemKO22,2215,22
+tjs,Reliability-aware intelligent mapping based on reinforcement learning for networks-on-chips.,2000057,2022,https://dblp.org/rec/journals/tjs/KadriCLK22,18153-18188,78
+iet-bmt,Optimized multi-biometric enhancement analysis.,2000057,2021,https://dblp.org/rec/journals/iet-bmt/ArtabazSBK21,326-341,10
+iotj,Energy Efficiency in Security of 5G-Based IoT: An End-to-End Adaptive Approach.,2000057,2020,https://dblp.org/rec/journals/iotj/HellaouiKB20,6589-6602,7
+jsa,A survey on fault-tolerant application mapping techniques for Network-on-Chip.,2000057,2019,https://dblp.org/rec/journals/jsa/KadriK19,39-52,92
+iecon,Matching Similarity Scores for a Minutiae-based Palmprint Recognition.,2000057,2019,https://dblp.org/rec/conf/iecon/FaisalBK19,132-137,
+ijautcomp,A Novel Active Learning Method Using SVM for Text Classification.,2000057,2018,https://dblp.org/rec/journals/ijautcomp/GoudjilKBG18,290-298,15
+sj,A Multi-Cooperative-Based Approach to Manage Communication in Wireless Instrumentation Systems.,2000057,2018,https://dblp.org/rec/journals/sj/HamaniJOBLK18,2174-2185,12
+tbc,"On Improving Video Streaming Efficiency, Fairness, Stability, and Convergence Time Through Client-Server Cooperation.",2000057,2018,https://dblp.org/rec/journals/tbc/MaraiTMK18,11-25,64
+icc,Context Aware MWSN Optimal Redeployment Strategies for Air Pollution Timely Monitoring.,2000057,2018,https://dblp.org/rec/conf/icc/BelkhiriBRK18,1-7,
+icecsys,FTNoCSim: A new Simulation platform for Evaluating Network-on-Chip Reliability.,2000057,2018,https://dblp.org/rec/conf/icecsys/KadriYKK18,421-424,
+cn,Energy-efficient mechanisms in security of the internet of things: A survey.,2000057,2017,https://dblp.org/rec/journals/cn/HellaouiKB17,173-189,127
+ria,De la coopération de collectifs multi-agents. Un modèle d'utilisation de productions collectives.,2000057,2017,https://dblp.org/rec/journals/ria/Khenifar-Bessadi17,97-132,31
+telsys,Adaptive and dual data-communication trust scheme for clustered wireless sensor networks.,2000057,2017,https://dblp.org/rec/journals/telsys/TalbiKBB17,605-619,65
+jsa,NoC routing protocols - objective-based classification.,2000057,2016,https://dblp.org/rec/journals/jsa/GabisK16,14-32,66-67
+his,Chaff-Points Generation Using Knapsack Problem Resolution in Fingerprint Fuzzy Vault.,2000057,2016,https://dblp.org/rec/conf/his/DellysSABK16,507-516,
+isda,Multibiometrics Enhancement Using Quality Measurement in Score Level Fusion.,2000057,2016,https://dblp.org/rec/conf/isda/ArtabazSDBK16,260-267,
+jfsma,De la coopération des productions collectives dans un contexte multi-agent (présentation courte).,2000057,2016,https://dblp.org/rec/conf/jfsma/Khenifar-Bessadi16,43-52,
+lcn,TAS-IoT: Trust-Based Adaptive Security in the IoT.,2000057,2016,https://dblp.org/rec/conf/lcn/HellaouiBK16,599-602,
+mcsoc,Heuristic Based Routing Algorithm for Network on Chip.,2000057,2016,https://dblp.org/rec/conf/mcsoc/GabisSBKB16,39-45,
+rivf,About cooperation of multiagent collective products: An approach in the context of cyber-physical systems.,2000057,2016,https://dblp.org/rec/conf/rivf/Khenifar-Bessadi16,19-24,
+globecom,Adaptive Data-Communication Trust Mechanism for Clustered Wireless Sensor Networks.,2000057,2015,https://dblp.org/rec/conf/globecom/TalbiKBB15,1-6,
+idt,A bi-objective heuristic for heterogeneous MPSoC design space exploration.,2000057,2015,https://dblp.org/rec/conf/idt/MediouniNBBK15,90-95,
+ivic,Score Level Fusion Scheme in Hybrid Multibiometric System.,2000057,2015,https://dblp.org/rec/conf/ivic/ArtabazSBDK15,166-177,
+ivic,A Critical Comparison of Fingerprint Fuzzy Vault Techniques.,2000057,2015,https://dblp.org/rec/conf/ivic/DellysBBSBAK15,178-188,
+mobisys,Bird Flocking Congestion Control for CoAP/RPL/6LoWPAN Networks.,2000057,2015,https://dblp.org/rec/conf/mobisys/HellaouiK15,25-30,
+jnca,Adaptive failure detection in low power lossy wireless sensor networks.,2000057,2014,https://dblp.org/rec/journals/jnca/BenhamidaCK14,168-180,45
+IEEEias,Extraction method of Region of Interest from hand palm: Application with contactless and touchable devices.,2000057,2014,https://dblp.org/rec/conf/IEEEias/ArtabazBKNB14,77-82,
+iwwiss,A recursive approach to enable the collective level interaction of the Web of Things applications.,2000057,2014,https://dblp.org/rec/conf/iwwiss/KhenifarJOBK14,13:1-13:2,
+globecom,ALLONE: A new adaptive failure detector model for Low-power Lossy Networks.,2000057,2013,https://dblp.org/rec/conf/globecom/BenhamidaCK13,91-96,
+cason,Threats models on biometric systems: A comparative study.,2000057,2012,https://dblp.org/rec/conf/cason/NabilKMA12,186-191,
+iscc,A new weighted shortest path tree for convergecast traffic routing in WSN.,2000057,2012,https://dblp.org/rec/conf/iscc/BechkitKCBSB12,187-192,
+ieeeIA,An optimized self-organized approach to manage communication in wireless instrumentation systems.,2000057,2011,https://dblp.org/rec/conf/ieeeIA/HamaniJOK11,54-61,
+jfsma,Ant-MWAC : Une approche conjointe multi-agent et colonie de fourmis pour gérer les communications dans les réseaux de capteurs sans fil.,2000057,2011,https://dblp.org/rec/conf/jfsma/HamaniJOK11,85-94,
+wd,Efficient adaptive failure detection for Query/Response based wireless sensor networks.,2000057,2011,https://dblp.org/rec/conf/wd/BenhamidaCK11,1-6,
+medes,An ACO/MAS joint approach to manage communications in wireless sensor networks.,2000057,2009,https://dblp.org/rec/conf/medes/HamaniJKO09,332-339,
+amc,Using artificial bees to solve partitioning and scheduling problems in codesign.,2000057,2007,https://dblp.org/rec/journals/amc/KoudilBTS07,1710-1722,186
+amc,AntPart: an algorithm for the unsupervised classification problem using ants.,2000057,2006,https://dblp.org/rec/journals/amc/AdmaneBKSM06,16-28,180
+iwinac,Using Bees to Solve a Data-Mining Problem Expressed as a Max-Sat One.,2000057,2005,https://dblp.org/rec/conf/iwinac/BenatchbaAK05,212-220,
+iwinac,Solving Partitioning Problem in Codesign with Ant Colonies.,2000057,2005,https://dblp.org/rec/conf/iwinac/KoudilBGH05,324-337,
+smc,Using ant colonies to solve data-mining problems.,2000057,2004,https://dblp.org/rec/conf/smc/AdmaneBKDGH04,3151-3157,
+iwann,Using Genetic Algorithms for Solving Partitioning Problem in Codesign.,2000057,2003,https://dblp.org/rec/conf/iwann/KoudilBD03,393-400,
+iotj,Cooperative Deep Reinforcement Learning for Dynamic Pollution Plume Monitoring Using a Drone Fleet.,2000020,2024,https://dblp.org/rec/journals/iotj/AssenineBMRB24,7325-7338,11
+corr,LOOPer: A Learned Automatic Code Optimizer For Polyhedral Compilers.,2000020,2024,https://dblp.org/rec/journals/corr/abs-2403-11522,,abs/2403.11522
+access,Deep Learning-Based Gender Classification by Training With Fake Data.,2000020,2023,https://dblp.org/rec/journals/access/OuladKaddourHVPBC23,120766-120779,11
+hai,Enhancing Explanaibility in AI: Food Recommender System Use Case.,2000020,2023,https://dblp.org/rec/conf/hai/TessaAFTBN23,395-397,
+iccci,A Fitness Approximation Assisted Hyper-heuristic for the Permutation Flowshop Problem.,2000020,2023,https://dblp.org/rec/conf/iccci/CherreredMBT23,534-545,
+ictai,On data selection for the energy efficiency of neural networks: Towards a new solution based on a dynamic selectivity ratio.,2000020,2023,https://dblp.org/rec/conf/ictai/BoumendilBB23,325-332,
+iwann,Offline Substitution Machine Learning Model for the Prediction of Fitness of GA-ARM.,2000020,2023,https://dblp.org/rec/conf/iwann/HamdadLABS23,130-142,
+kes,An Analysis of Effective Per-instance Tailored GAs for the Permutation Flowshop Scheduling Problem.,2000020,2023,https://dblp.org/rec/conf/kes/BachaTB23,3958-3966,
+kes,Fitness Approximation Surrogate-assisted Hyper-heuristic for the Permutation Flowshop Problem.,2000020,2023,https://dblp.org/rec/conf/kes/MekkiCTB23,4043-4054,
+asc,Adaptive search space to generate a per-instance genetic algorithm for the permutation flow shop problem.,2000020,2022,https://dblp.org/rec/journals/asc/BachaBT22,109079,124
+asunam,A Hybrid Artificial Bee Colony Algorithm with Simulated Annealing for Enhanced Community Detection in Social Networks.,2000020,2022,https://dblp.org/rec/conf/asunam/DakicheBTSB22,104-108,
+corr,Progress Report: A Deep Learning Guided Exploration of Affine Unimodular Loop Transformations.,2000020,2022,https://dblp.org/rec/journals/corr/abs-2206-03684,,abs/2206.03684
+iet-bmt,Optimized multi-biometric enhancement analysis.,2000020,2021,https://dblp.org/rec/journals/iet-bmt/ArtabazSBK21,326-341,10
+ijbic,Performance assessment of biogeography-based multi-objective algorithm for frequency assignment problem.,2000020,2021,https://dblp.org/rec/journals/ijbic/DaoudiBBH21,199-209,18
+ngc,Tailored Network Splitting for Community Evolution Prediction in Dynamic Social Networks.,2000020,2021,https://dblp.org/rec/journals/ngc/DakicheTBS21,303-340,39
+sncs,Association Rules Mining.,2000020,2021,https://dblp.org/rec/journals/sncs/HamdadB21,449,2
+mlsys,A Deep Learning Based Cost Model for Automatic Code Optimization.,2000020,2021,https://dblp.org/rec/conf/mlsys/BaghdadiMLAABA21,,
+simultech,EPredictor: An Experimental Platform for Community Evolution Prediction Tests.,2000020,2021,https://dblp.org/rec/conf/simultech/DakicheTBSKC21,295-302,
+webist,Impact of Tailored Network Splitting and Community Features' Change Rates on Prediction Accuracy in Dynamic Social Networks.,2000020,2021,https://dblp.org/rec/conf/webist/DakicheBTS21,95-102,
+corr,A Deep Learning Based Cost Model for Automatic Code Optimization.,2000020,2021,https://dblp.org/rec/journals/corr/abs-2104-04955,,abs/2104.04955
+ijcse,Two-level parallel CPU/GPU-based genetic algorithm for association rule mining.,2000020,2020,https://dblp.org/rec/journals/ijcse/HamdadOBB20,335-345,22
+memetic,Feature selection based bee swarm meta-heuristic approach for combinatorial optimisation problems: a case-study on MaxSAT.,2000020,2020,https://dblp.org/rec/journals/memetic/SadegHCBHK20,283-298,12
+aciids,Solving the Unrelated Parallel Machine Scheduling Problem with Setups Using Late Acceptance Hill Climbing.,2000020,2020,https://dblp.org/rec/conf/aciids/TerziAYB20,249-258,
+misc,Meta-learning to Select the Best Metaheuristic for the MaxSAT Problem.,2000020,2020,https://dblp.org/rec/conf/misc/SadegHKBH20,122-135,
+ipm,Tracking community evolution in social networks: A survey.,2000020,2019,https://dblp.org/rec/journals/ipm/DakicheTSB19,1084-1102,56
+brain,Evaluation of Identity Information Loss in EEG-Based Biometric Systems.,2000020,2019,https://dblp.org/rec/conf/brain/BoubakeurWLB19,201-211,
+iecon,Matching Similarity Scores for a Minutiae-based Palmprint Recognition.,2000020,2019,https://dblp.org/rec/conf/iecon/FaisalBK19,132-137,
+iecon,Induction Machines Bearing Failures Detection and Diagnosis using Variable Neighborhood Search.,2000020,2019,https://dblp.org/rec/conf/iecon/KhamoudjTBB19,6010-6015,
+iwann,Impact of Genetic Algorithms Operators on Association Rules Extraction.,2000020,2019,https://dblp.org/rec/conf/iwann/HamdadBBO19,747-759,
+iwann,Unsupervised Learning Bee Swarm Optimization Metaheuristic.,2000020,2019,https://dblp.org/rec/conf/iwann/SadegHHABH19,773-784,
+iwann,QBSO-FS: A Reinforcement Learning Based Bee Swarm Optimization Metaheuristic for Feature Selection.,2000020,2019,https://dblp.org/rec/conf/iwann/SadegHRKBH19,785-796,
+kes,A New Hyper-Heuristic to Generate Effective Instance GA for the Permutation Flow Shop Problem.,2000020,2019,https://dblp.org/rec/conf/kes/BachaBBT19,1365-1374,
+sac,Community evolution prediction in dynamic social networks using community features' change rates.,2000020,2019,https://dblp.org/rec/conf/sac/DakicheTSB19,2078-2085,
+or,Game theory-based integration of scheduling with flexible and periodic maintenance planning in the permutation flowshop sequencing problem.,2000020,2018,https://dblp.org/rec/journals/or/TayebBM18,221-255,18
+ciia,Basketball Analytics. Data Mining for Acquiring Performances.,2000020,2018,https://dblp.org/rec/conf/ciia/HamdadBBC18,13-24,
+ciia,Similarity Measures for Spatial Clustering.,2000020,2018,https://dblp.org/rec/conf/ciia/HamdadBIM18,25-36,
+fuzzIEEE,Sensitive Analysis of Timeframe Type and Size Impact on Community Evolution Prediction.,2000020,2018,https://dblp.org/rec/conf/fuzzIEEE/DakicheTSB18,1-8,
+ntms,Chaff-Points Generation Method Based on Adaptive Genetic Algorithms and Non-Fixed Size Squares Boundaries for Resource Constrained Devices.,2000020,2018,https://dblp.org/rec/conf/ntms/DellysBSC18,1-4,
+asc,A new MPPT controller based on the Ant colony optimization algorithm for Photovoltaic systems under partial shading conditions.,2000020,2017,https://dblp.org/rec/journals/asc/TitriLYB17,465-479,58
+telsys,Adaptive and dual data-communication trust scheme for clustered wireless sensor networks.,2000020,2017,https://dblp.org/rec/journals/telsys/TalbiKBB17,605-619,65
+iecon,Classical mechanics-inspired optimization metaheuristic for induction machines bearing failures detection and diagnosis.,2000020,2017,https://dblp.org/rec/conf/iecon/KhamoudjTBB17,3803-3808,
+jaihc,Efficient distributed discovery and composition of OWL-S process model in P2P systems.,2000020,2016,https://dblp.org/rec/journals/jaihc/BoukhadraBB16,187-203,7
+his,Chaff-Points Generation Using Knapsack Problem Resolution in Fingerprint Fuzzy Vault.,2000020,2016,https://dblp.org/rec/conf/his/DellysSABK16,507-516,
+icsibo,Classical Mechanics Optimization for Image Segmentation.,2000020,2016,https://dblp.org/rec/conf/icsibo/KhamoudjBK16,102-110,
+idc,A Dynamic Model to enhance the Distributed Discovery of services in P2P Overlay Networks.,2000020,2016,https://dblp.org/rec/conf/idc/BoukhadraBB16,13-22,
+isda,Multibiometrics Enhancement Using Quality Measurement in Score Level Fusion.,2000020,2016,https://dblp.org/rec/conf/isda/ArtabazSDBK16,260-267,
+mcsoc,Heuristic Based Routing Algorithm for Network on Chip.,2000020,2016,https://dblp.org/rec/conf/mcsoc/GabisSBKB16,39-45,
+3pgcic,Towards Efficient and Effective Distributed Discovery of SWs in P2P Overlay Networks.,2000020,2015,https://dblp.org/rec/conf/3pgcic/BoukhadraBB15,77-84,
+acii,Multitasking in emotion modelling: Attention Control.,2000020,2015,https://dblp.org/rec/conf/acii/SidoumouTPBB15,308-314,
+cdc,Game theoretic modelling of the integrated production and preventive maintenance scheduling problem in permutation flowshops.,2000020,2015,https://dblp.org/rec/conf/cdc/TayebMB15,5184-5189,
+ciia,Region-Edge Cooperation for Image Segmentation Using Game Theory.,2000020,2015,https://dblp.org/rec/conf/ciia/BoudraaB15,515-526,
+dcai,Efficient P2P Approach for a Better Automation of the Distributed Discovery of SWs.,2000020,2015,https://dblp.org/rec/conf/dcai/BoukhadraBB15,277-284,
+fnc,Similarity Flooding for Efficient Distributed Discovery of OWL-S Process Model in P2P Networks.,2000020,2015,https://dblp.org/rec/conf/fnc/BoukhadraBB15,317-324,
+globecom,Adaptive Data-Communication Trust Mechanism for Clustered Wireless Sensor Networks.,2000020,2015,https://dblp.org/rec/conf/globecom/TalbiKBB15,1-6,
+idt,A bi-objective heuristic for heterogeneous MPSoC design space exploration.,2000020,2015,https://dblp.org/rec/conf/idt/MediouniNBBK15,90-95,
+ivic,Score Level Fusion Scheme in Hybrid Multibiometric System.,2000020,2015,https://dblp.org/rec/conf/ivic/ArtabazSBDK15,166-177,
+ivic,A Critical Comparison of Fingerprint Fuzzy Vault Techniques.,2000020,2015,https://dblp.org/rec/conf/ivic/DellysBBSBAK15,178-188,
+iwann,BSO-FS: Bee Swarm Optimization for Feature Selection in Classification.,2000020,2015,https://dblp.org/rec/conf/iwann/SadegHBH15,387-399,
+simultech,Artificial Financial Market - Risk Analysis Approach.,2000020,2015,https://dblp.org/rec/conf/simultech/HedjaziAB15,359-366,
+IEEEias,Extraction method of Region of Interest from hand palm: Application with contactless and touchable devices.,2000020,2014,https://dblp.org/rec/conf/IEEEias/ArtabazBKNB14,77-82,
+hpcc,Hybrid Ontology-Based Matching for Distributed Discovery of SWS in P2P Systems.,2000020,2014,https://dblp.org/rec/conf/hpcc/BoukhadraBB14,896-903,
+nbis,Ranked Matching of OWL-S Process Model for Distributed Discovery of SWs in P2P Systems.,2000020,2014,https://dblp.org/rec/conf/nbis/BoukhadraBB14,106-113,
+ijspm,Multi-agent financial market simulation: evolutionist approach.,2000020,2013,https://dblp.org/rec/journals/ijspm/HedjaziAAB13,185-199,8
+3pgcic,HPS5DSWS: A Hybrid P2P Strategy of the Distributed Discovery Mechanism for Semantic Web Services.,2000020,2013,https://dblp.org/rec/conf/3pgcic/BoukhadraBB13,29-36,
+hpcc,Parallel B&B Algorithm for Hybrid Multi-core/GPU Architectures.,2000020,2013,https://dblp.org/rec/conf/hpcc/BendjoudiCGMBSM13,914-921,
+icitst,DA5DCSWS: A Distributed Architecture for semantic Web services Discovery and Composition.,2000020,2013,https://dblp.org/rec/conf/icitst/BoukhadraBB13,182-187,
+iecon,Bees for block matching.,2000020,2013,https://dblp.org/rec/conf/iecon/BoumazouzaSDKB13,2390-2394,
+iwinac,Self Organized Biogeography Algorithm for Clustering.,2000020,2013,https://dblp.org/rec/conf/iwinac/HamdadABDB13,396-405,
+nicso,A Cooperative Approach Using Ants and Bees for the Graph Coloring Problem.,2000020,2013,https://dblp.org/rec/conf/nicso/BessedikDB13,179-190,
+amt,Multi-Agent Liquidity Risk Management in an Interbank Net Settlement System.,2000020,2012,https://dblp.org/rec/conf/amt/HedjaziAAB12,103-114,
+cason,Threats models on biometric systems: A comparative study.,2000020,2012,https://dblp.org/rec/conf/cason/NabilKMA12,186-191,
+iat,Initial Public Offering (IPO) Pricing Using a Multi-agent System.,2000020,2012,https://dblp.org/rec/conf/iat/HedjaziAAB12,236-242,
+icaart,Interbank Payment System (RTGS) Simulation using Multi-agent Approach.,2000020,2012,https://dblp.org/rec/conf/icaart/BadiaaMSK12,362-365,
+iscc,A new weighted shortest path tree for convergecast traffic routing in WSN.,2000020,2012,https://dblp.org/rec/conf/iscc/BechkitKCBSB12,187-192,
+IEEEicci,An Immune System for the general T-coloring problem.,2000020,2011,https://dblp.org/rec/conf/IEEEicci/MahmoudiBB11,432-437,
+icaart,Overhearing in Financial Markets - A Multi-agent Approach.,2000020,2011,https://dblp.org/rec/conf/icaart/BadiaaSMK11,342-350,
+amc,Using artificial bees to solve partitioning and scheduling problems in codesign.,2000020,2007,https://dblp.org/rec/journals/amc/KoudilBTS07,1710-1722,186
+amc,AntPart: an algorithm for the unsupervised classification problem using ants.,2000020,2006,https://dblp.org/rec/journals/amc/AdmaneBKSM06,16-28,180
+iwinac,Using Bees to Solve a Data-Mining Problem Expressed as a Max-Sat One.,2000020,2005,https://dblp.org/rec/conf/iwinac/BenatchbaAK05,212-220,
+iwinac,Solving Partitioning Problem in Codesign with Ant Colonies.,2000020,2005,https://dblp.org/rec/conf/iwinac/KoudilBGH05,324-337,
+smc,Using ant colonies to solve data-mining problems.,2000020,2004,https://dblp.org/rec/conf/smc/AdmaneBKDGH04,3151-3157,
+iwann,Using Genetic Algorithms for Solving Partitioning Problem in Codesign.,2000020,2003,https://dblp.org/rec/conf/iwann/KoudilBD03,393-400,
+ejisdc,A spatial data integration and visualization approach for occupational health and safety risks management: Application to Algerian electricity and gas company.,2000044,2023,https://dblp.org/rec/journals/ejisdc/HarounG23,,89
+eait,Exploring the emotional aspect in Learner's personal annotation colors.,2000044,2022,https://dblp.org/rec/journals/eait/BoutefaraMG22,6173-6195,27
+ijide,Open Data Influence on Digital Governance.,2000044,2022,https://dblp.org/rec/journals/ijide/ZineMZG22,1-11,13
+ijssci,Implementing Web and Mobile Applications From Linked Open Data.,2000044,2022,https://dblp.org/rec/journals/ijssci/ZemmouchiGhomariBMG22,1-18,14
+jwe,Transformation Approach of Open Web Data to Linked Open Data.,2000044,2021,https://dblp.org/rec/journals/jwe/MehereheraMZG21,1247-1278,20
+ijec,Crowdsourcing-Enabled Crisis Collaborative Decision Making.,2000044,2020,https://dblp.org/rec/journals/ijec/BenaliGZL20,49-72,16
+eis,"Enabling flexible task compositions, orders and granularities for knowledge-intensive business processes.",2000044,2019,https://dblp.org/rec/journals/eis/SidRG19,376-423,13
+eda,Intégrer les LOD dans un cube de données : Transformons une action technique en valeur organisationnelle.,2000044,2019,https://dblp.org/rec/conf/eda/KhouriBGA19,61-76,
+medi,Thinking the Incorporation of LOD in Semantic Cubes as a Strategic Decision.,2000044,2019,https://dblp.org/rec/conf/medi/KhouriGA19,287-302,
+ciia,Crowdsourced Collaborative Decision Making in Crisis Management: Application to Desert Locust Survey and Control.,2000044,2018,https://dblp.org/rec/conf/ciia/BenaliGZ18,533-545,
+intellisys,Agent Based Simulation of Business Model Ontologies Value in Enterprise Context - Application to the Customer Relationship Management.,2000044,2018,https://dblp.org/rec/conf/intellisys/BadsiGZ18,718-736,
+ijssmet,A CRM Process Model for Agent-Based Simulation.,2000044,2017,https://dblp.org/rec/journals/ijssmet/BadsiGZ17,56-82,8
+icebe,Business Process Integration: How to Achieve Interoperability through Process Patterns.,2000044,2017,https://dblp.org/rec/conf/icebe/AouachriaLGGH17,109-117,
+icete,Process Adaptation Patterns for Cross-Organizational Business Process Modeling.,2000044,2017,https://dblp.org/rec/conf/icete/AouachriaLG17,124-129,
+iscram,Towards a Crowdsourcing-based Approach to enhance Decision Making in Collaborative Crisis Management.,2000044,2017,https://dblp.org/rec/conf/iscram/BenaliG17,,
+ict-dm,Information and knowledge driven collaborative crisis management: A literature review.,2000044,2016,https://dblp.org/rec/conf/ict-dm/BenaliG16,1-3,
+ijbis,How to measure business value of business model ontologies? A proposal.,2000044,2015,https://dblp.org/rec/journals/ijbis/BadsiZG15,241-264,19
+iciip,Towards a Repository for the Reuse of Business Process Models from a Requirements Analysis Perspective.,2000044,2015,https://dblp.org/rec/conf/iciip/AouachriaGS15,30:1-30:5,
+ijws,"Ontology versus terminology, from the perspective of ontologists.",2000044,2012,https://dblp.org/rec/journals/ijws/Zemmouchi-GhomariG12,315-331,1
+cisis,A Comparative Study: Syntactic versus Semantic Matching Systems.,2000044,2009,https://dblp.org/rec/conf/cisis/GhomariG09,700-704,
+sitis,Reference Ontology.,2000044,2009,https://dblp.org/rec/conf/sitis/Zemmouchi-GhomariG09,485-491,
+ecs,Business Knowledge Acquisition Methodological Approach.,2000044,2007,https://dblp.org/rec/journals/ecs/GhomariCA07,,29
+ijseke,An Adaptive Semantic Annotation Tool for Teachers Based on Context-Aware and Internet of Things.,2000032,2023,https://dblp.org/rec/journals/ijseke/BensattalahCN23,1355-1385,33
+jksucis,MDA4SOA,2000032,2023,https://dblp.org/rec/journals/jksucis/BoumahdiOCHM23,101544,35
+ijkl,New architecture of enterprise social networks for knowledge sharing within engineering school.,2000032,2022,https://dblp.org/rec/journals/ijkl/LadegC22,16-34,15
+worldcist,Parabolic Threshold Discretization for Big Data.,2000032,2022,https://dblp.org/rec/conf/worldcist/LounesROCH22,66-74,
+worldcist,Big Data Stream Discretization Using ChiMerge Algorithm.,2000032,2021,https://dblp.org/rec/conf/worldcist/SafsafLHC21,527-534,
+ao,OntoGamif: A modular ontology for integrated gamification.,2000032,2019,https://dblp.org/rec/journals/ao/BouzidiNNC19,215-249,14
+dke,: Towards an automated hybrid approach for building XML data warehouses.,2000032,2019,https://dblp.org/rec/journals/dke/OuaretBBC19,60-82,120
+is,EXODuS: Exploratory OLAP over Document Stores.,2000032,2019,https://dblp.org/rec/journals/is/ChouderRC19,44-57,79
+icbdt,A Toolbox for Information System Evaluation.,2000032,2019,https://dblp.org/rec/conf/icbdt/TaibouniC19,283-290,
+icist2,An architectural framework for gamified information systems.,2000032,2019,https://dblp.org/rec/conf/icist2/BouzidiBNC19,13:1-13:5,
+ijbis,EI-Annotate: an adaptive collective memory based on annotation ontology and context for decision making in economic intelligence.,2000032,2018,https://dblp.org/rec/journals/ijbis/AissaANC18,207-232,29
+worldcist,From KDD to KUBD: Big Data Characteristics Within the KDD Process Steps.,2000032,2018,https://dblp.org/rec/conf/worldcist/LounesOCH18,931-937,
+jdiq,QDflows: A System Driven by Knowledge Bases for Designing Quality-Aware Data flows.,2000032,2017,https://dblp.org/rec/journals/jdiq/AbdellaouiNC17,14:1-14:39,8
+edbt,Enabling Self-Service BI on Document Stores.,2000032,2017,https://dblp.org/rec/conf/edbt/ChouderRC17,,
+soca,SOA,2000032,2016,https://dblp.org/rec/journals/soca/BoumahdiCGG16,35-53,10
+ijmso,Reconciliation model of heterogeneous information in decisional information systems.,2000032,2015,https://dblp.org/rec/journals/ijmso/FarehBC15,37-54,10
+ciia,Requirement Analysis in Data Warehouses to Support External Information.,2000032,2015,https://dblp.org/rec/conf/ciia/ChouderCS15,243-253,
+ciia,Engineering the Requirements of Data Warehouses: A Comparative Study of Goal-Oriented Approaches.,2000032,2015,https://dblp.org/rec/conf/ciia/SetraCC15,254-265,
+icalt,A Formative Assessment Ontology for Students' Lab Reports in Lab Book.,2000032,2015,https://dblp.org/rec/conf/icalt/MokeddemDR15,253-255,
+ijssoe,SOAda: A New Architecture to Enrich SOA with a Decisional Aspect.,2000032,2014,https://dblp.org/rec/journals/ijssoe/BoumahdiC14,13-27,4
+jdim,An Approach for Generating an XML Data Warehouse Schema using Model Transformation Language.,2000032,2014,https://dblp.org/rec/journals/jdim/OuaretCB14,407-420,12
+aiccsa,A global and comprehensive approach for XML data warehouse design.,2000032,2014,https://dblp.org/rec/conf/aiccsa/OuaretBC14,578-585,
+icdim,Towards the automation of XML data warehouse logical design.,2000032,2014,https://dblp.org/rec/conf/icdim/OuaretBC14,27-32,
+corr,SoaDssPm: A new Service-Oriented Architecture of the decision support system for the Project Management.,2000032,2014,https://dblp.org/rec/journals/corr/BoumahdiC14,,abs/1401.5433
+ijicot,An overview of XML warehouse design approaches and techniques.,2000032,2013,https://dblp.org/rec/journals/ijicot/OuaretCB13,140-170,2
+ijmso,Merging ontology by semantic enrichment and combining similarity measures.,2000032,2013,https://dblp.org/rec/journals/ijmso/FarehBCMN13,65-74,8
+aiccsa,"Semantic metadata mediation: XML, RDF and RuleML.",2000032,2013,https://dblp.org/rec/conf/aiccsa/FarehBC13,1-8,
+kes,SOAda: Service Oriented Architecture with a Decision Aspect.,2000032,2013,https://dblp.org/rec/conf/kes/BoumahdiC13,340-348,
+sci,Mapping System for Merging Ontologies.,2000032,2013,https://dblp.org/rec/series/sci/FarehBC13,205-216,
+ecs,Business Knowledge Acquisition Methodological Approach.,2000032,2007,https://dblp.org/rec/journals/ecs/GhomariCA07,,29
+ijgs,A hybrid approach for enhanced link prediction in social networks based on community detection.,2000018,2024,https://dblp.org/rec/journals/ijgs/KerkacheST24,154-183,53
+mta,Improved artificial bee colony algorithm based on community detection for link prediction problem.,2000018,2024,https://dblp.org/rec/journals/mta/KerkacheST24,41655-41681,83
+icaart,Flattening Based Cuckoo Search Optimization Algorithm for Community Detection in Multiplex Networks.,2000018,2024,https://dblp.org/rec/conf/icaart/BoukabeneTD24,519-526,
+corr,LOOPer: A Learned Automatic Code Optimizer For Polyhedral Compilers.,2000018,2024,https://dblp.org/rec/journals/corr/abs-2403-11522,,abs/2403.11522
+algorithms,A Reinforcing-Learning-Driven Artificial Bee Colony Algorithm for Scheduling Jobs and Flexible Maintenance under Learning and Deteriorating Effects.,2000018,2023,https://dblp.org/rec/journals/algorithms/TouafekTL23,397,16
+asc,A game-theoretical constructive approach for the multi-objective frequency assignment problem.,2000018,2023,https://dblp.org/rec/journals/asc/LaidouiBT23,110444,144
+ngc,Similarity-Based Hybrid Algorithms for Link Prediction Problem in Social Networks.,2000018,2023,https://dblp.org/rec/journals/ngc/KerkacheST23,281-314,41
+iccci,A Fitness Approximation Assisted Hyper-heuristic for the Permutation Flowshop Problem.,2000018,2023,https://dblp.org/rec/conf/iccci/CherreredMBT23,534-545,
+kes,An Analysis of Effective Per-instance Tailored GAs for the Permutation Flowshop Scheduling Problem.,2000018,2023,https://dblp.org/rec/conf/kes/BachaTB23,3958-3966,
+kes,Fitness Approximation Surrogate-assisted Hyper-heuristic for the Permutation Flowshop Problem.,2000018,2023,https://dblp.org/rec/conf/kes/MekkiCTB23,4043-4054,
+webist,Improved Random Key Cuckoo Search Optimization Algorithm for Community Detection in Social Networks.,2000018,2023,https://dblp.org/rec/conf/webist/BoukabeneTD23,113-120,
+webist,A Novel Hybrid Approach Combining Beam Search and DeepWalk for Community Detection in Social Networks.,2000018,2023,https://dblp.org/rec/conf/webist/BerricheNYABCTB23,454-463,
+asc,Adaptive search space to generate a per-instance genetic algorithm for the permutation flow shop problem.,2000018,2022,https://dblp.org/rec/journals/asc/BachaBT22,109079,124
+ijmr,Exact and metaheuristic approaches for the single-machine scheduling problem with flexible maintenance under human resource constraints.,2000018,2022,https://dblp.org/rec/journals/ijmr/TouatTB22,22-58,17
+asunam,A Hybrid Artificial Bee Colony Algorithm with Simulated Annealing for Enhanced Community Detection in Social Networks.,2000018,2022,https://dblp.org/rec/conf/asunam/DakicheBTSB22,104-108,
+cc,Caviar: an e-graph based TRS for automatic code optimization.,2000018,2022,https://dblp.org/rec/conf/cc/KourtaNTHCLB22,54-64,
+csa3,Supervised Learning Using Community Detection for Link Prediction.,2000018,2022,https://dblp.org/rec/conf/csa3/KerkacheSTA22,85-94,
+icaart,A Constraint Programming Model for the Scheduling Problem with Flexible Maintenance under Human Resource Constraints.,2000018,2022,https://dblp.org/rec/conf/icaart/TouatBT22,195-202,
+iccci,An Integrated Artificial Bee Colony Algorithm for Scheduling Jobs and Flexible Maintenance with Learning and Deteriorating Effects.,2000018,2022,https://dblp.org/rec/conf/iccci/TouafekTLDB22,647-659,
+kes,"Permutation Flowshop Scheduling Problem Considering Learning, Deteriorating Effects and Flexible Maintenance.",2000018,2022,https://dblp.org/rec/conf/kes/TouafekLTDB22,2518-2525,
+corr,Progress Report: A Deep Learning Guided Exploration of Affine Unimodular Loop Transformations.,2000018,2022,https://dblp.org/rec/journals/corr/abs-2206-03684,,abs/2206.03684
+ngc,Tailored Network Splitting for Community Evolution Prediction in Dynamic Social Networks.,2000018,2021,https://dblp.org/rec/journals/ngc/DakicheTBS21,303-340,39
+simultech,EPredictor: An Experimental Platform for Community Evolution Prediction Tests.,2000018,2021,https://dblp.org/rec/conf/simultech/DakicheTBSKC21,295-302,
+webist,Impact of Tailored Network Splitting and Community Features' Change Rates on Prediction Accuracy in Dynamic Social Networks.,2000018,2021,https://dblp.org/rec/conf/webist/DakicheBTS21,95-102,
+corr,Caviar: An E-graph Based TRS for Automatic Code Optimization.,2000018,2021,https://dblp.org/rec/journals/corr/abs-2111-12116,,abs/2111.12116
+eaai,An efficient hybrid multi-objective memetic algorithm for the frequency assignment problem.,2000018,2020,https://dblp.org/rec/journals/eaai/KioucheBTK20,,87
+sac,A game-theoretic approach for the multi-objective frequency assignment problem in mobile networks.,2000018,2020,https://dblp.org/rec/conf/sac/LaidouiTBL20,1002-1009,
+asc,An effective multi-objective hybrid immune algorithm for the frequency assignment problem.,2000018,2019,https://dblp.org/rec/journals/asc/TayebBKK19,,85
+ipm,Tracking community evolution in social networks: A survey.,2000018,2019,https://dblp.org/rec/journals/ipm/DakicheTSB19,1084-1102,56
+iecon,Induction Machines Bearing Failures Detection and Diagnosis using Variable Neighborhood Search.,2000018,2019,https://dblp.org/rec/conf/iecon/KhamoudjTBB19,6010-6015,
+isie,Improved Genetic Algorithm for the Fuzzy Flowshop Scheduling Problem with Predictive Maintenance Planning.,2000018,2019,https://dblp.org/rec/conf/isie/LadjTVDS19,1300-1305,
+kes,A Novel Multi-Objective Immune Memetic Algorithm for the Frequency Assignment Problem.,2000018,2019,https://dblp.org/rec/conf/kes/BessedikTKK19,67-76,
+kes,A New Hyper-Heuristic to Generate Effective Instance GA for the Permutation Flow Shop Problem.,2000018,2019,https://dblp.org/rec/conf/kes/BachaBBT19,1365-1374,
+sac,Community evolution prediction in dynamic social networks using community features' change rates.,2000018,2019,https://dblp.org/rec/conf/sac/DakicheTSB19,2078-2085,
+smc,An Integrated Guided Local Search considering Human Resource Constraints for the Single-machine Scheduling problem with Preventive Maintenance.,2000018,2019,https://dblp.org/rec/conf/smc/TouatTBSAK19,3799-3804,
+or,Game theory-based integration of scheduling with flexible and periodic maintenance planning in the permutation flowshop sequencing problem.,2000018,2018,https://dblp.org/rec/journals/or/TayebBM18,221-255,18
+etfa,Tailored Genetic Algorithm for Scheduling Jobs and Predictive Maintenance in a Permutation Flowshop.,2000018,2018,https://dblp.org/rec/conf/etfa/LadjTV18,524-531,
+fuzzIEEE,Sensitive Analysis of Timeframe Type and Size Impact on Community Evolution Prediction.,2000018,2018,https://dblp.org/rec/conf/fuzzIEEE/DakicheTSB18,1-8,
+kes,Nash-Pareto Genetic Algorithm for the Frequency Assignment Problem.,2000018,2018,https://dblp.org/rec/conf/kes/LaidouiBSBK18,282-291,
+kes,An effective heuristic for the single-machine scheduling problem with flexible maintenance under human resource constraints.,2000018,2018,https://dblp.org/rec/conf/kes/TouatSB18,1395-1404,
+asc,A hybridization of genetic algorithms and fuzzy logic for the single-machine scheduling with flexible maintenance problem under human resource constraints.,2000018,2017,https://dblp.org/rec/journals/asc/TouatBBB17,556-573,59
+ictai,A Fuzzy Genetic Algorithm for Single-Machine Scheduling and Flexible Maintenance Planning Integration under Human Resource Constraints.,2000018,2017,https://dblp.org/rec/conf/ictai/TouatTBB17,551-558,
+iecon,Classical mechanics-inspired optimization metaheuristic for induction machines bearing failures detection and diagnosis.,2000018,2017,https://dblp.org/rec/conf/iecon/KhamoudjTBB17,3803-3808,
+kes,Research on Permutation Flow-shop Scheduling Problem based on Improved Genetic Immune Algorithm with vaccinated offspring.,2000018,2017,https://dblp.org/rec/conf/kes/TayebBBCB17,427-436,
+kes,A Hybrid of Variable Neighbor Search and Fuzzy Logic for the permutation flowshop scheduling problem with predictive maintenance.,2000018,2017,https://dblp.org/rec/conf/kes/LadjTVDS17,663-672,
+ijris,Combining graph decomposition techniques and metaheuristics for solving PCSPs. Application to MI-FAP.,2000018,2016,https://dblp.org/rec/journals/ijris/Sadeg-BelkacemH16,104-118,8
+cec,An integrated prognostic based hybrid genetic-immune algorithm for scheduling jobs and predictive maintenance.,2000018,2016,https://dblp.org/rec/conf/cec/LadjTV16,2083-2089,
+candie,Considering human resource constraints for real joint production and maintenance schedules.,2000018,2015,https://dblp.org/rec/journals/candie/Bouzidi-Hassini15,197-211,90
+cdc,Game theoretic modelling of the integrated production and preventive maintenance scheduling problem in permutation flowshops.,2000018,2015,https://dblp.org/rec/conf/cdc/TayebMB15,5184-5189,
+icaart,Decomposition Tehniques for Solving Frequency Assigment Problems (FAP) - A Top-Down Approach.,2000018,2014,https://dblp.org/rec/conf/icaart/Sadeg-BelkacemHTS14,477-484,
+isie,Towards an artificial immune system for scheduling jobs and preventive maintenance operations in flowshop problems.,2000018,2014,https://dblp.org/rec/conf/isie/TayebB14,1065-1070,
+ijiei,A multi-agent approach for scheduling jobs and maintenance operations in the flowshop sequencing problem.,2000018,2013,https://dblp.org/rec/journals/ijiei/KhelifatiB13,47-70,2
+hpcc,Parallel B&B Algorithm for Hybrid Multi-core/GPU Architectures.,2000018,2013,https://dblp.org/rec/conf/hpcc/BendjoudiCGMBSM13,914-921,
+ijmr,Joint scheduling of jobs and Preventive Maintenance operations in the flowshop sequencing problem: a resolution with sequential and integrated strategies.,2000018,2011,https://dblp.org/rec/journals/ijmr/Benbouzid-SitayebGBVZ11,30-48,6
+iccci,A Multi-Agent Scheduling Approach for the Joint Scheduling of Jobs and Maintenance Operations in the Flow Shop Sequencing Problem.,2000018,2011,https://dblp.org/rec/conf/iccci/KhelifatiB11,60-69,
+isda,A sequantial distributed approach for the joint scheduling of jobs and maintenance operations in the flowshop sequencing problem.,2000018,2011,https://dblp.org/rec/conf/isda/KhelifatiB11,420-425,
+iwinac,An Integrated Resolution of Joint Production and Maintenance Scheduling Problem in Hybrid Flowshop.,2000018,2007,https://dblp.org/rec/conf/iwinac/Benbouzid-SitayebTM07,518-527,
+iwann,Resolution of Joint Maintenance/Production Scheduling by Sequential and Integrated Strategies.,2000018,2003,https://dblp.org/rec/conf/iwann/BenbouzidVZ03,782-789,
+ijseke,An Adaptive Semantic Annotation Tool for Teachers Based on Context-Aware and Internet of Things.,2000067,2023,https://dblp.org/rec/journals/ijseke/BensattalahCN23,1355-1385,33
+sle,Gamification of e-learning in higher education: a systematic literature review.,2000067,2023,https://dblp.org/rec/journals/sle/KhaldiBN23,10,10
+icaart,RDC-Repair: Towards a Relevance-Driven Approach for Data and Constraints Repair.,2000067,2023,https://dblp.org/rec/conf/icaart/NadjehAN23a,448-468,
+icaart,CSP-DC: Data Cleaning via Constraint Satisfaction Problem Solving.,2000067,2023,https://dblp.org/rec/conf/icaart/NadjehAN23,478-488,
+kes,Event Nugget Detection using Pre-trained Language Models.,2000067,2020,https://dblp.org/rec/conf/kes/MeghatriaLN20,320-329,
+ao,OntoGamif: A modular ontology for integrated gamification.,2000067,2019,https://dblp.org/rec/journals/ao/BouzidiNNC19,215-249,14
+jaihc,SEFAP: an efficient approach for ranking skyline web services.,2000067,2019,https://dblp.org/rec/journals/jaihc/OuadahHNB19,709-725,10
+icist2,An architectural framework for gamified information systems.,2000067,2019,https://dblp.org/rec/conf/icist2/BouzidiBNC19,13:1-13:5,
+ijbis,EI-Annotate: an adaptive collective memory based on annotation ontology and context for decision making in economic intelligence.,2000067,2018,https://dblp.org/rec/journals/ijbis/AissaANC18,207-232,29
+ijict,A new approach to supporting runtime decision making in mobile OLAP.,2000067,2018,https://dblp.org/rec/journals/ijict/NachidaFF18,149-175,13
+misc,An Improved Fuzzy Analytical Hierarchy Process for K-Representative Skyline Web Services Selection.,2000067,2018,https://dblp.org/rec/conf/misc/OuadahHNB18,312-328,
+jdiq,QDflows: A System Driven by Knowledge Bases for Designing Quality-Aware Data flows.,2000067,2017,https://dblp.org/rec/journals/jdiq/AbdellaouiNC17,14:1-14:39,8
+ccgrid,A Quality-Driven Approach for Building Heterogeneous Distributed Databases: The Case of Data Warehouses.,2000067,2016,https://dblp.org/rec/conf/ccgrid/AbdellaouiBN16,631-638,
+adbis,Avoiding Ontology Confusion in ETL Processes.,2000067,2015,https://dblp.org/rec/conf/adbis/KhouriAN15,119-126,
+soca,SkyAP-S3: A Hybrid Approach for Efficient Skyline Services Selection.,2000067,2015,https://dblp.org/rec/conf/soca/OuadahBHN15,18-25,
+icitst,Creation of educative content on the web.,2000067,2014,https://dblp.org/rec/conf/icitst/AmmarF14,119-124,
+icitst,Pedagogical hypermédias systems.,2000067,2013,https://dblp.org/rec/conf/icitst/AmmarF13,332-337,
+icwit,Urbanization of Information Systems with a Service Oriented Architecture According to the PRAXEME Approach - Application to the Information System of the National Social Insurance Fund (CNAS).,2000067,2012,https://dblp.org/rec/conf/icwit/AmelF12,102-111,
+ciia,Profilisation et Contextualisation des Systèmes OLAP: Aperçu de l'Eétat de l'Art.,2000067,2011,https://dblp.org/rec/conf/ciia/NachidaOF11,,
+ic3k,Integration of Profile in OLAP Systems.,2000067,2011,https://dblp.org/rec/conf/ic3k/NachidaBN11,320-332,
+ir,Tashaphyne0.4: a new arabic light stemmer based on rhyzome modeling approach.,2000016,2023,https://dblp.org/rec/journals/ir/AlKhatibZSB23,14,26
+comcom,NRflex: Enforcing network slicing in 5G New Radio.,2000016,2022,https://dblp.org/rec/journals/comcom/BoutibaKBCB22,284-292,181
+globecom,UAV mission optimization in 5G: On reducing MEC service relocation.,2000016,2020,https://dblp.org/rec/conf/globecom/Si-MohammedKBCB20,1-6,
+cogsr,A generic and efficient emotion-driven approach toward personalized assessment and adaptation in serious games.,2000016,2019,https://dblp.org/rec/journals/cogsr/MostefaiBT19,82-106,56
+ijris,Adapting eSpeak to Arabic language: converting Arabic text to speech language using eSpeak.,2000016,2019,https://dblp.org/rec/journals/ijris/ZerroukiSBBSB19,76-89,11
+ipm,A probabilistic model to exploit user expectations in XML information retrieval.,2000016,2017,https://dblp.org/rec/journals/ipm/DahakBB17,87-105,53
+ijet,A Semantic Analysis of the Learner's Disorientation.,2000016,2016,https://dblp.org/rec/journals/ijet/AddaBB16,10-18,11
+ijst,Towards an open platform based on HPSG formalism for the standard Arabic language.,2000016,2016,https://dblp.org/rec/journals/ijst/LoukamBL16,325-338,19
+jaihc,Efficient distributed discovery and composition of OWL-S process model in P2P systems.,2000016,2016,https://dblp.org/rec/journals/jaihc/BoukhadraBB16,187-203,7
+idc,A Dynamic Model to enhance the Distributed Discovery of services in P2P Overlay Networks.,2000016,2016,https://dblp.org/rec/conf/idc/BoukhadraBB16,13-22,
+3pgcic,Towards Efficient and Effective Distributed Discovery of SWs in P2P Overlay Networks.,2000016,2015,https://dblp.org/rec/conf/3pgcic/BoukhadraBB15,77-84,
+dcai,Efficient P2P Approach for a Better Automation of the Distributed Discovery of SWs.,2000016,2015,https://dblp.org/rec/conf/dcai/BoukhadraBB15,277-284,
+fnc,Similarity Flooding for Efficient Distributed Discovery of OWL-S Process Model in P2P Networks.,2000016,2015,https://dblp.org/rec/conf/fnc/BoukhadraBB15,317-324,
+wanlp,SAHSOH$@$QALB-2015 Shared Task: A Rule-Based Correction Method of Common Arabic Native and Non-Native Speakers' Errors.,2000016,2015,https://dblp.org/rec/conf/wanlp/ZaghouaniZB15,155-160,
+ijtem,Improving Personalization In E-Learning Systems.,2000016,2014,https://dblp.org/rec/journals/ijtem/BezzaBM14,75-84,4
+ijwa,The Use of Ontology in Semantic Analysis of the Learner's Queries on the Web through Search Engines.,2000016,2014,https://dblp.org/rec/journals/ijwa/AddaB14,121-130,6
+hpcc,Hybrid Ontology-Based Matching for Distributed Discovery of SWS in P2P Systems.,2000016,2014,https://dblp.org/rec/conf/hpcc/BoukhadraBB14,896-903,
+icsibo,The Use of Ontology in Semantic Analysis of the Published Learners Messages for Adaptability.,2000016,2014,https://dblp.org/rec/conf/icsibo/AddaB14,106-114,
+nbis,Ranked Matching of OWL-S Process Model for Distributed Discovery of SWs in P2P Systems.,2000016,2014,https://dblp.org/rec/conf/nbis/BoukhadraBB14,106-113,
+wanlp,Autocorrection of arabic common errors for large text corpus.,2000016,2014,https://dblp.org/rec/conf/wanlp/ZerroukiAB14,127-131,
+3pgcic,HPS5DSWS: A Hybrid P2P Strategy of the Distributed Discovery Mechanism for Semantic Web Services.,2000016,2013,https://dblp.org/rec/conf/3pgcic/BoukhadraBB13,29-36,
+icitst,DA5DCSWS: A Distributed Architecture for semantic Web services Discovery and Composition.,2000016,2013,https://dblp.org/rec/conf/icitst/BoukhadraBB13,182-187,
+icwl,Adaptation Based on Navigation Type and Learning Style.,2000016,2013,https://dblp.org/rec/conf/icwl/BousbiaGB13,23-31,
+icwit,Automatic Composition of Semantic Web Services-based Alignment of OWL-S.,2000016,2012,https://dblp.org/rec/conf/icwit/AdelKA12,336-341,
+ijlt,Supervised classification on navigational behaviours in web-based learning systems to identify learning styles.,2000016,2011,https://dblp.org/rec/journals/ijlt/BousbiaLBR11,24-45,6
+csedu,An Open Learning Environment based on Generic Course.,2000016,2011,https://dblp.org/rec/conf/csedu/BallaB11,231-236,
+umuai,Learners' navigation behavior identification based on trace analysis.,2000016,2010,https://dblp.org/rec/journals/umuai/BousbiaRLB10,455-494,20
+edm,Analyzing Learning Styles using Behavioral Indicators in Web based Learning Environments.,2000016,2010,https://dblp.org/rec/conf/edm/BousbiaLBR10,279-280,
+iajit,A proposed approach for learner evaluation in an open distance environment.,2000016,2009,https://dblp.org/rec/journals/iajit/Balla09,132-137,6
+ciia,Pertinence des Résultats de Recherche de Services Web E-Learning.,2000016,2009,https://dblp.org/rec/conf/ciia/BoudaliBA09,,
+icalt,Indicators for Deducting the Learners' Learning Styles: Case of the Navigation Typology Indicator.,2000016,2009,https://dblp.org/rec/conf/icalt/BousbiaLRB09,385-389,
+iscc,Measuring the learners' learning style based on tracks analysis in web based learning.,2000016,2009,https://dblp.org/rec/conf/iscc/BousbiaBR09,98-103,
+inforsid,Indexation des documents XML : Un DataGuide annoté avec un index de contenu.,2000016,2008,https://dblp.org/rec/conf/inforsid/DahakBB08,,
+its,Detection of Learning Styles from Learner's Browsing Behavior During E-Learning Activities.,2000016,2008,https://dblp.org/rec/conf/its/BousbiaLB08,740-742,
+springer,Developing Educational Applications using Adaptive e-Learning Model.,2000016,2008,https://dblp.org/rec/series/springer/BallaS08,13-18,
+aiccsa,An Educational Asynchronous Learning Environment.,2000016,2007,https://dblp.org/rec/conf/aiccsa/Balla07,856-859,
+awic,Interrogation of Ontologies Formalized in Topic Maps with TMQL in E-Learning Context.,2000016,2007,https://dblp.org/rec/conf/awic/AmroucheABM07,29-34,
+dn,HYPERGAP : un hypermédia éducatif dynamique générant des activités pédagogiques.,2000016,2003,https://dblp.org/rec/journals/dn/BallaLL03,39-57,7
+asc,A game-theoretical constructive approach for the multi-objective frequency assignment problem.,2000026,2023,https://dblp.org/rec/journals/asc/LaidouiBT23,110444,144
+kes,A QLearning Approach for an efficient Estimation Of Initial Number of Communities in social networks.,2000026,2023,https://dblp.org/rec/conf/kes/BeldiB23,3785-3794,
+kes,A New Branch and Bound Algorithm for Mining Frequent Conceptual Links in Social Networks.,2000026,2023,https://dblp.org/rec/conf/kes/DjahnitB23,4399-4409,
+webist,A Novel Hybrid Approach Combining Beam Search and DeepWalk for Community Detection in Social Networks.,2000026,2023,https://dblp.org/rec/conf/webist/BerricheNYABCTB23,454-463,
+ijbic,Performance assessment of biogeography-based multi-objective algorithm for frequency assignment problem.,2000026,2021,https://dblp.org/rec/journals/ijbic/DaoudiBBH21,199-209,18
+ic3k,Exhaustive Solution for Mining Frequent Conceptual Links in Large Networks using a Binary Compressed Representation.,2000026,2021,https://dblp.org/rec/conf/ic3k/DjahnitB21,180-190,
+eaai,An efficient hybrid multi-objective memetic algorithm for the frequency assignment problem.,2000026,2020,https://dblp.org/rec/journals/eaai/KioucheBTK20,,87
+istr,Optimized in-network authentication against pollution attacks in software-defined-named data networking.,2000026,2020,https://dblp.org/rec/journals/istr/BoussahaCBB20,,50
+sac,A game-theoretic approach for the multi-objective frequency assignment problem in mobile networks.,2000026,2020,https://dblp.org/rec/conf/sac/LaidouiTBL20,1002-1009,
+asc,An effective multi-objective hybrid immune algorithm for the frequency assignment problem.,2000026,2019,https://dblp.org/rec/journals/asc/TayebBKK19,,85
+cec,A New Brainstorming Based Algorithm for the Community Detection Problem.,2000026,2019,https://dblp.org/rec/conf/cec/BeldiB19,2958-2965,
+kes,A Novel Multi-Objective Immune Memetic Algorithm for the Frequency Assignment Problem.,2000026,2019,https://dblp.org/rec/conf/kes/BessedikTKK19,67-76,
+kes,Nash-Pareto Genetic Algorithm for the Frequency Assignment Problem.,2000026,2018,https://dblp.org/rec/conf/kes/LaidouiBSBK18,282-291,
+kes,Research on Permutation Flow-shop Scheduling Problem based on Improved Genetic Immune Algorithm with vaccinated offspring.,2000026,2017,https://dblp.org/rec/conf/kes/TayebBBCB17,427-436,
+softcom,Towards authenticated network coding for named data networking.,2000026,2017,https://dblp.org/rec/conf/softcom/BoussahaCBB17,1-6,
+ijmheur,Parallel artificial immune system for the constrained graph list multicolouring problem.,2000026,2014,https://dblp.org/rec/journals/ijmheur/HadjiMMB14,1-20,3
+nicso,A Cooperative Approach Using Ants and Bees for the Graph Coloring Problem.,2000026,2013,https://dblp.org/rec/conf/nicso/BessedikDB13,179-190,
+ijbic,How can bees colour graphs.,2000026,2011,https://dblp.org/rec/journals/ijbic/BessedikTD11,67-76,3
+IEEEicci,An Immune System for the general T-coloring problem.,2000026,2011,https://dblp.org/rec/conf/IEEEicci/MahmoudiBB11,432-437,
+IEEEicci,Resolution of the general T-coloring problem using an MBO based algorithm.,2000026,2011,https://dblp.org/rec/conf/IEEEicci/LeilaM11,438-443,
+ijbic,Two hybrid ant algorithms for the general T-colouring problem.,2000026,2010,https://dblp.org/rec/journals/ijbic/MahmoudiBD10,353-362,2
+cimca,Ant Colony System for Graph Coloring Problem.,2000026,2005,https://dblp.org/rec/conf/cimca/BessedikLBD05,786-791,
+icaase,Analysis of Students' Emotions in an Online Learning Environment.,2000082,2022,https://dblp.org/rec/conf/icaase/BensbaAZB22,1-7,
+sac,"Exploiting the progress of OO refactoring tools with Android code smells: RAndroid, a plugin for Android studio.",2000082,2021,https://dblp.org/rec/conf/sac/GattalHBH21,1580-1583,
+ijris,Adapting eSpeak to Arabic language: converting Arabic text to speech language using eSpeak.,2000082,2019,https://dblp.org/rec/journals/ijris/ZerroukiSBBSB19,76-89,11
+icse,Sniffing Android code smells: an association rules mining-based approach.,2000082,2019,https://dblp.org/rec/conf/icse/RubinHMBB19,123-127,
+ijet,A Semantic Analysis of the Learner's Disorientation.,2000082,2016,https://dblp.org/rec/journals/ijet/AddaBB16,10-18,11
+icwl,Adaptation Based on Navigation Type and Learning Style.,2000082,2013,https://dblp.org/rec/conf/icwl/BousbiaGB13,23-31,
+icwl,ESITrace: A User Side Trace and Annotation Collection Tool.,2000082,2012,https://dblp.org/rec/conf/icwl/LouifiBAM12,49-58,
+ijlt,Supervised classification on navigational behaviours in web-based learning systems to identify learning styles.,2000082,2011,https://dblp.org/rec/journals/ijlt/BousbiaLBR11,24-45,6
+csedu,An Open Learning Environment based on Generic Course.,2000082,2011,https://dblp.org/rec/conf/csedu/BallaB11,231-236,
+umuai,Learners' navigation behavior identification based on trace analysis.,2000082,2010,https://dblp.org/rec/journals/umuai/BousbiaRLB10,455-494,20
+edm,Analyzing Learning Styles using Behavioral Indicators in Web based Learning Environments.,2000082,2010,https://dblp.org/rec/conf/edm/BousbiaLBR10,279-280,
+icalt,Indicators for Deducting the Learners' Learning Styles: Case of the Navigation Typology Indicator.,2000082,2009,https://dblp.org/rec/conf/icalt/BousbiaLRB09,385-389,
+iscc,Measuring the learners' learning style based on tracks analysis in web based learning.,2000082,2009,https://dblp.org/rec/conf/iscc/BousbiaBR09,98-103,
+its,Detection of Learning Styles from Learner's Browsing Behavior During E-Learning Activities.,2000082,2008,https://dblp.org/rec/conf/its/BousbiaLB08,740-742,
+sncs,Taguchi Design for Setting EHO Variants Parameters: Application in Brain Image Segmentation Using HMRF.,90000024,2023,https://dblp.org/rec/journals/sncs/MahiouGS23,794,4
+corr,Image Segmentation Methods for Non-destructive testing Applications.,90000024,2021,https://dblp.org/rec/journals/corr/abs-2103-07754,,abs/2103.07754
+aiccsa,3D Brain Image Segmentation Model using Deep Learning and Hidden Markov Random Fields.,90000024,2020,https://dblp.org/rec/conf/aiccsa/GuerroutMMH20,1-8,
+corr,hidden markov random fields and cuckoo search method for medical image segmentation.,90000024,2020,https://dblp.org/rec/journals/corr/abs-2005-09377,,abs/2005.09377
+iajit,Hidden markov random fields and particle swarm combination for brain image segmentation.,90000024,2018,https://dblp.org/rec/journals/iajit/GuerroutMA18,462-468,15
+jetai,Hidden Markov random field model and Broyden-Fletcher-Goldfarb-Shanno algorithm for brain image segmentation.,90000024,2018,https://dblp.org/rec/journals/jetai/GuerroutAMM18,415-427,30
+ciia,Conjugate Gradient Method for Brain Magnetic Resonance Images Segmentation.,90000024,2018,https://dblp.org/rec/conf/ciia/GuerroutAMM18,561-572,
+corr,Combination of Hidden Markov Random Field and Conjugate Gradient for Brain Image Segmentation.,90000024,2017,https://dblp.org/rec/journals/corr/GuerroutAMM17,,abs/1705.04823
+icpram,Hidden Markov Random Fields and Direct Search Methods for Medical Image Segmentation.,90000024,2016,https://dblp.org/rec/conf/icpram/GuerroutAMM16,154-161,
+medprai,Hidden Markov Random Field model and BFGS algorithm for Brain Image Segmentation.,90000024,2016,https://dblp.org/rec/conf/medprai/GuerroutAMM16,7-11,
+iv,Medical Image Segmentation Using Particle Swarm Optimization.,90000024,2014,https://dblp.org/rec/conf/iv/Ait-AoudiaGM14,287-291,
+iv,Satellite and Aerial Image Mosaicing - A Comparative Insight.,90000024,2012,https://dblp.org/rec/conf/iv/Ait-AoudiaMDG12,652-657,
+iv,Evaluation of Volumetric Medical Images Segmentation Using Hidden Markov Random Field Model.,90000024,2011,https://dblp.org/rec/conf/iv/Ait-AoudiaMG11,513-518,
+iv,YACBIR: Yet Another Content Based Image Retrieval System.,90000024,2010,https://dblp.org/rec/conf/iv/Ait-AoudiaMB10,570-575,
+nca,A new hybrid model of convolutional neural networks and hidden Markov chains for image classification.,90000025,2023,https://dblp.org/rec/journals/nca/GoumiriBP23,17987-18002,35
+isc2,One Convolutional Layer Model For Parking Occupancy Detection.,90000025,2021,https://dblp.org/rec/conf/isc2/GoumiriBP21,1-5,
+tac,Optimal Filter Approximations in Conditionally Gaussian Pairwise Markov Switching Models.,90000025,2015,https://dblp.org/rec/journals/tac/AbbassiBDP15,1104-1109,60
+icassp,Challenging eye segmentation using Triplet Markov spatial models.,90000025,2013,https://dblp.org/rec/conf/icassp/BenboudjemaODP13,1927-1931,
+ei-mobmu,Texture based Markovian modelling for image retrieval.,90000025,2011,https://dblp.org/rec/conf/ei-mobmu/BenboudjemaP11,78811E,
+pami,Unsupervised Statistical Segmentation of Nonstationary Images Using Triplet Markov Fields.,90000025,2007,https://dblp.org/rec/journals/pami/BenboudjemaP07,1367-1378,29
+igarss,Unsupervised segmentation of SAR images using Triplet Markov fields and fisher noise distributions.,90000025,2007,https://dblp.org/rec/conf/igarss/BenboudjemaTPSN07,3891-3894,
+ivc,Multisensor triplet Markov fields and theory of evidence.,90000025,2006,https://dblp.org/rec/journals/ivc/PieczynskiB06,61-69,24
+icassp,Unsupervised Segmentation Of Non Stationary Images With Non Gaussian Correlated Noise Using Triplet Markov Fields And The Pearson System.,90000025,2006,https://dblp.org/rec/conf/icassp/BenboudjemaP06,701-704,
+cviu,Unsupervised image segmentation using triplet Markov fields.,90000025,2005,https://dblp.org/rec/journals/cviu/BenboudjemaP05,476-498,99
+icip,Segmenting non stationary images with triplet Markov fields.,90000025,2005,https://dblp.org/rec/conf/icip/BenboudjemaP05,317-320,
+sj,A Multi-Cooperative-Based Approach to Manage Communication in Wireless Instrumentation Systems.,90000026,2018,https://dblp.org/rec/journals/sj/HamaniJOBLK18,2174-2185,12
+ieeeIA,An optimized self-organized approach to manage communication in wireless instrumentation systems.,90000026,2011,https://dblp.org/rec/conf/ieeeIA/HamaniJOK11,54-61,
+jfsma,Ant-MWAC : Une approche conjointe multi-agent et colonie de fourmis pour gérer les communications dans les réseaux de capteurs sans fil.,90000026,2011,https://dblp.org/rec/conf/jfsma/HamaniJOK11,85-94,
+medes,An ACO/MAS joint approach to manage communications in wireless sensor networks.,90000026,2009,https://dblp.org/rec/conf/medes/HamaniJKO09,332-339,
+iwinac,Solving Partitioning Problem in Codesign with Ant Colonies.,90000026,2005,https://dblp.org/rec/conf/iwinac/KoudilBGH05,324-337,
+smc,Using ant colonies to solve data-mining problems.,90000026,2004,https://dblp.org/rec/conf/smc/AdmaneBKDGH04,3151-3157,
+jaihc,Efficient distributed discovery and composition of OWL-S process model in P2P systems.,90000027,2016,https://dblp.org/rec/journals/jaihc/BoukhadraBB16,187-203,7
+idc,A Dynamic Model to enhance the Distributed Discovery of services in P2P Overlay Networks.,90000027,2016,https://dblp.org/rec/conf/idc/BoukhadraBB16,13-22,
+3pgcic,Towards Efficient and Effective Distributed Discovery of SWs in P2P Overlay Networks.,90000027,2015,https://dblp.org/rec/conf/3pgcic/BoukhadraBB15,77-84,
+dcai,Efficient P2P Approach for a Better Automation of the Distributed Discovery of SWs.,90000027,2015,https://dblp.org/rec/conf/dcai/BoukhadraBB15,277-284,
+fnc,Similarity Flooding for Efficient Distributed Discovery of OWL-S Process Model in P2P Networks.,90000027,2015,https://dblp.org/rec/conf/fnc/BoukhadraBB15,317-324,
+hpcc,Hybrid Ontology-Based Matching for Distributed Discovery of SWS in P2P Systems.,90000027,2014,https://dblp.org/rec/conf/hpcc/BoukhadraBB14,896-903,
+nbis,Ranked Matching of OWL-S Process Model for Distributed Discovery of SWs in P2P Systems.,90000027,2014,https://dblp.org/rec/conf/nbis/BoukhadraBB14,106-113,
+3pgcic,HPS5DSWS: A Hybrid P2P Strategy of the Distributed Discovery Mechanism for Semantic Web Services.,90000027,2013,https://dblp.org/rec/conf/3pgcic/BoukhadraBB13,29-36,
+icitst,DA5DCSWS: A Distributed Architecture for semantic Web services Discovery and Composition.,90000027,2013,https://dblp.org/rec/conf/icitst/BoukhadraBB13,182-187,
+icwit,Automatic Composition of Semantic Web Services-based Alignment of OWL-S.,90000027,2012,https://dblp.org/rec/conf/icwit/AdelKA12,336-341,
+iet-ipr,Fully automated brain tumour segmentation system in 3D-MRI using symmetry analysis of brain and level sets.,2000097,2018,https://dblp.org/rec/journals/iet-ipr/KermiAZ18,1964-1971,12
+miccai,Deep Convolutional Neural Networks Using U-Net for Automatic Brain Tumor Segmentation in Multimodal MRI Volumes.,2000097,2018,https://dblp.org/rec/conf/miccai/KermiMK18,37-48,
+isspa,A 3D deformable model constrained by anthropometric knowledge for computerized facial reconstructions.,2000097,2012,https://dblp.org/rec/conf/isspa/KermiL12,924-929,

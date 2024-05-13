@@ -1,0 +1,253 @@
+@media (max-width:1400px) {
+    #TitreDePublication {
+        width:1000px;
+    }
+    #intitule {
+        width:1000px;
+    }
+    #my-button{
+        margin-right: 32px;
+    }
+    #Lien , #Nom  , #titre {
+        width:1000px;
+    }
+    #NombreDePges , #domaine , #code  , #dateDeDebut , #DateDeFin , #acronyme , #maison_edition , #type , #periodicite{
+        width:492px;
+
+    }
+    #NombreDeVolumes , #code  , #Annee_debut , #annee_fin{
+        width:492px;
+    }
+    #Année {
+        width:492px;
+    }
+    #Acronyme{
+        width:492px;
+    }
+    #Redacteurs {
+        padding-left:64px;
+    }
+}
+@media (max-width:1260px)
+{
+    #TitreDePublication {
+        width:800px;
+    }
+    #intitule {
+        width:800px;
+    }
+    #Lien , #Nom , #titre{
+        width:800px;
+    }
+    #NombreDePges , #domaine  , #code , #dateDeDebut , #DateDeFin , #acronyme , #maison_edition , #type , #periodicite{
+        width:392px;
+
+    }
+    #NombreDeVolumes , #code  , #Annee_debut , #annee_fin{
+        width:392px;
+    }
+    #Année {
+        width:392px;
+    }
+    #Acronyme{
+        width:392px;
+    }
+    #Redacteurs {
+        padding-left:64px;
+    }
+}
+
+@media (max-width:1050px)
+{
+    #TitreDePublication {
+        width:600px;
+    }
+    #intitule {
+        width:600px;
+    }
+    
+    #Lien , #Nom , #titre{
+        width:600px;
+    }
+    #NombreDePges , #domaine , #code , #dateDeDebut , #DateDeFin , #acronyme , #maison_edition , #type , #periodicite{
+        width:292px;
+
+    }
+    #NombreDeVolumes , #code  , #Annee_debut , #annee_fin{
+        width:292px;
+    }
+    #Année {
+        width:292px;
+    }
+    #Acronyme{
+        width:292px;
+    }
+    #Redacteurs {
+        padding-left:64px;
+    }
+}
+@media (max-width:880px){
+    #my-button{
+        margin-right: 32px;
+    }
+    #TitreDePublication {
+        width:500px;
+    }
+    #intitule {
+        width:500px;
+    }
+    
+    #Lien , #Nom , #titre{
+        width:500px;
+    }
+    #NombreDePges , #domaine  , #code , #dateDeDebut , #DateDeFin , #acronyme , #maison_edition , #type , #periodicite{
+        width:242px;
+
+    }
+    #NombreDeVolumes , #code ,   #Annee_debut , #annee_fin{
+        width:242px;
+    }
+    #Année {
+        width:242px;
+    }
+    #Acronyme{
+        width:242px;
+    }
+    #Redacteurs {
+        padding-left:64px;
+    }
+}
+
+@media (max-width:770px){
+    #my-button{
+        margin-right: 32px;
+        margin-bottom: 32px;
+    }
+    #TitreDePublication {
+        width:400px;
+    }
+    #intitule {
+        width:400px;
+    }
+    
+    #Lien , #Nom , #titre{
+        width:400px;
+    }
+    #NombreDePges , #domaine , #code , #dateDeDebut , #DateDeFin , #acronyme , #maison_edition , #type , #periodicite{
+        width:400px;
+
+    }
+    
+    #NombreDeVolumes , #code  , #Annee_debut , #annee_fin{
+        width:400px;
+    }
+    #Année {
+        width:400px;
+    }
+    #Acronyme{
+        width:400px;
+    }
+    #Redacteurs {
+        padding-left:64px;
+    }
+    #row1 {
+        flex-direction: column;
+    }
+}
+
+@media (max-width:640px){
+    #my-button{
+        margin-right: 32px;
+        margin-bottom: 32px;
+    }
+    #TitreDePublication {
+        width:300px;
+    }
+    #intitule {
+        width:300px;
+    }
+    
+    #Lien , #Nom , #titre {
+        width:300px;
+    }
+    #NombreDePges  , #domaine , #code , #dateDeDebut , #DateDeFin , #acronyme , #maison_edition , #type , #periodicite{
+        width:300px;
+
+    }
+    #NombreDeVolumes , #code  , #Annee_debut , #annee_fin{
+        width:300px;
+    }
+    #Année {
+        width:300px;
+    }
+    #Acronyme{
+        width:300px;
+    }
+    #Redacteurs {
+        padding-left:64px;
+    }
+    #row1 {
+        flex-direction: column;
+    }
+}
+
+
+@media (max-width:530px){
+    #button-members {
+        flex-direction: column;
+    }
+    #my-button{
+        margin-right: 32px;
+        margin-bottom: 32px;
+    }
+    #TitreDePublication {
+        width:200px;
+    }
+    #intitule {
+        width:200px;
+    }
+    
+    #Lien , #Nom , #titre{
+        width:200px;
+    }
+    #NombreDePges , #domaine  , #code , #dateDeDebut , #DateDeFin , #acronyme , #maison_edition , #type , #periodicite{
+        width:200px;
+
+    }
+    #NombreDeVolumes , #code  , #Annee_debut , #annee_fin{
+        width:200px;
+    }
+    #Année {
+        width:200px;
+    }
+    #Acronyme{
+        width:200px;
+    }
+    #Redacteurs {
+        padding-left:64px;
+    }
+    #row1 {
+        flex-direction: column;
+    }
+    #my-button{
+        margin-bottom: 32px;
+        right:25px
+    }
+}
+
+#role {
+    /* styles pour le select */
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    color: #333;
+    outline: none;
+}
+
+#role option {
+    /* styles pour les options du select */
+    padding: 8px;
+    font-size: 16px;
+}

@@ -1,0 +1,5 @@
+@media (max-width: 1227.2px) {
+  .none {
+    @apply hidden;
+  }
+}

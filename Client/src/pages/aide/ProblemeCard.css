@@ -1,0 +1,10 @@
+#line {
+
+    @apply mx-5 border-b-[0.25px] border-bg_gris w-[95%] opacity-25 z-0;
+    /* Ajoute une bordure en haut de 2px solide avec la couleur #333 */
+}
+@media (max-width : 670px) {
+    #probleme-card {
+        width: 350px
+    }
+}

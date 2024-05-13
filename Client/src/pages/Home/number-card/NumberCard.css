@@ -1,0 +1,13 @@
+@keyframes slide-up {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-825px);
+  }
+}
+
+.scrollUp {
+  animation: slide-up 3s ease-out;
+  animation-delay: 1s;
+}

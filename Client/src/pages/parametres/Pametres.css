@@ -1,0 +1,396 @@
+@media (max-width:1350px){
+    #page-toggle-buttons {
+        width: 800px;
+    }
+    #nomComplet     {
+        width: 300px;
+    }
+    #email{
+        width: 300px;
+    }
+    #qualite{
+        width: 300px;
+    }
+    #diplome{
+        width: 300px;
+    }
+    #username{
+        width: 300px;
+    }
+    #telephone{
+        width: 300px;
+    }
+    #gradeR{
+        width: 300px;
+    }
+    #etab{
+        width: 300px;
+
+    }
+    #orcid{
+        width: 300px;
+    }
+    #hindex{
+        width: 300px;
+    }
+    #gradeE{
+        width: 300px;
+    }
+    #equipe{
+        width: 300px;
+    }
+
+}
+@media (max-width:1200px) {
+    #page-toggle-buttons {
+        width: 700px;
+    }
+    #nomComplet     {
+        width: 250px;
+    }
+    #email{
+        width: 250px;    }
+    #qualite{
+        width: 250px;    }
+    #diplome{
+        width: 250px;    }
+    #username{
+        width: 250px;    }
+    #telephone{
+        width: 250px;    }
+    #gradeR{
+        width: 250px;    }
+    #etab{
+        width: 250px;
+    }
+    #orcid{
+        width: 250px;    }
+    #hindex{
+        width: 250px;    }
+    #gradeE{
+        width: 250px;    }
+    #equipe{
+        width: 250px;    }
+}
+
+@media (max-width:1050px) {
+    #page-toggle-buttons {
+        width: 650px;
+    }
+    #nomComplet     {
+        width: 200px;
+    }
+    #email{
+        width: 200px;   }
+    #qualite{
+        width: 200px;    }
+    #diplome{
+        width: 200px;    }
+    #username{
+        width: 200px;    }
+    #telephone{
+        width: 200px;    }
+    #gradeR{
+        width: 200px;    }
+    #etab{
+        width: 200px;
+    }
+    #orcid{
+        width: 200px;    }
+    #hindex{
+        width: 200px;    }
+    #gradeE{
+        width: 200px;    }
+    #equipe{
+        width: 200px;    }
+}
+
+@media (max-width:870px) {
+    #div-principale{
+        flex-direction: column;
+    }
+    
+    
+    #col1{
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+    }
+    #col2{
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+
+    }
+    #col3{
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+
+    }
+    #page-toggle-buttons {
+        width: 500px;
+    }
+    #nomComplet     {
+        width: 250px;
+    }
+    #email{
+        width: 250px;   }
+    #qualite{
+        width: 250px;    }
+    #diplome{
+        width: 250px;    }
+    #username{
+        width: 250px;    }
+    #telephone{
+        width: 250px;    }
+    #gradeR{
+        width: 250px;    }
+    #etab{
+        width: 250px;
+    }
+    #orcid{
+        width: 250px;    }
+    #hindex{
+        width: 250px;    }
+    #gradeE{
+        width: 250px;    }
+    #equipe{
+        width: 250px;    }
+}
+
+@media (max-width:770px) {
+    #col1{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+    #col2 {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+    #col3{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+    #nomComplet     {
+        width: 400px;
+    }
+    #email{
+        width: 400px;   }
+    #qualite{
+        width: 400px;    }
+    #diplome{
+        width: 400px;    }
+    #username{
+        width: 400px;    }
+    #telephone{
+        width: 400px;    }
+    #gradeR{
+        width: 400px;    }
+    #etab{
+        width: 400px;
+    }
+    #orcid{
+        width: 400px;    }
+    #hindex{
+        width: 400px;    }
+    #gradeE{
+        width: 400px;    }
+    #equipe{
+        width: 400px;    }
+}
+
+
+
+@media (max-width:730px) {
+    #page-toggle-buttons {
+        width: 350px;
+    }
+    #col1{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+    #col2 {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+    #col3{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+    #nomComplet     {
+        width: 300px;
+    }
+    #email{
+        width: 300px;   }
+    #qualite{
+        width: 300px;    }
+    #diplome{
+        width: 300px;    }
+    #username{
+        width: 300px;    }
+    #telephone{
+        width: 300px;    }
+    #gradeR{
+        width: 300px;    }
+    #etab{
+        width: 300px;
+    }
+    #orcid{
+        width: 300px;    }
+    #hindex{
+        width: 300px;    }
+    #gradeE{
+        width: 300px;    }
+    #equipe{
+        width: 300px;    }
+    #Toggle-button {
+            font-size:15px;
+    }
+}
+
+
+
+@media (max-width:1100px) {
+    #AncienMotDePasse {
+        width: 600px;
+    }
+    #NouveauMotDePasse {
+        width: 600px;
+    }
+    #RépétezLeNouveauMotDePasse{
+        width: 600px;
+    }
+}
+@media (max-width:800px) {
+    #AncienMotDePasse {
+        width: 450px;
+    }
+    #NouveauMotDePasse {
+        width: 450px;
+    }
+    #RépétezLeNouveauMotDePasse{
+        width: 450px;
+    }
+}
+@media (max-width:650px) {
+    #AncienMotDePasse {
+        width: 350px;
+    }
+    #NouveauMotDePasse {
+        width: 350px;
+    }
+    #RépétezLeNouveauMotDePasse{
+        width: 350px;
+    }
+}
+@media (max-width:530px) {
+    #AncienMotDePasse {
+        width: 250px;
+    }
+    #NouveauMotDePasse {
+        width: 250px;
+    }
+    #RépétezLeNouveauMotDePasse{
+        width: 250px;
+    }
+    #form {
+        align-items: start;
+    }
+    
+}
+
+@media (max-width:1100px) {
+    #URLDeSitePersonnel {
+        width: 700px;
+
+    }
+    #URLGoogleScholar {
+        width: 700px;
+    }
+    #URLReaserchGate {
+        width: 700px;
+    }
+    #URLDBlp {
+        width: 700px;
+    }
+}
+
+@media (max-width:900px) {
+    #URLDeSitePersonnel {
+        width: 600px;
+
+    }
+    #URLGoogleScholar {
+        width: 600px;
+    }
+    #URLReaserchGate {
+        width: 600px;
+    }
+    #URLDBlp {
+        width: 600px;
+    }
+}
+
+@media (max-width:780px) {
+    #URLDeSitePersonnel {
+        width: 500px;
+
+    }
+    #URLGoogleScholar {
+        width: 500px;
+    }
+    #URLReaserchGate {
+        width: 500px;
+    }
+    #URLDBlp {
+        width: 500px;
+    }
+}
+@media (max-width:690px) {
+    #URLDeSitePersonnel {
+        width: 400px;
+    }
+    #URLGoogleScholar {
+        width: 400px;
+    }
+    #URLReaserchGate {
+        width: 400px;
+    }
+    #URLDBlp {
+        width: 400px;
+    }
+}
+@media (max-width:570px) {
+    #URLDeSitePersonnel {
+        width: 300px;
+
+    }
+    #URLGoogleScholar {
+        width: 300px;
+    }
+    #URLReaserchGate {
+        width: 300px;
+    }
+    #URLDBlp {
+        width: 300px;
+    }
+}

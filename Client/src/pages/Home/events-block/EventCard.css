@@ -1,0 +1,24 @@
+@media (max-width: 812px) {
+  #card {
+    width: 90vw;
+  }
+}
+/* For window width between 813px and 1073.99px */
+@media (min-width: 813px) and (max-width: 1073.99px) {
+  #card {
+    width: 789.26px;
+  }
+}
+
+/* For window width greater than or equal to 1074px */
+@media (min-width: 1074px) {
+  #card {
+    width: 72.33vw;
+  }
+}
+
+@media (max-width: 612px) {
+  #card {
+    height: fit-content;
+  }
+}
